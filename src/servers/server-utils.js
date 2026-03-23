@@ -39,16 +39,25 @@ export function mountStreamableHttpServer(app, routePath, createServer, options 
       }
     });
 
-    transport.onclose = async () => {
+    let cleanedUp = false;
+
+    async function cleanup() {
+      if (cleanedUp) {
+        return;
+      }
+      cleanedUp = true;
       const sessionId = transport.sessionId;
       if (sessionId) {
         transports.delete(sessionId);
       }
-      await server.close();
+    }
+
+    transport.onclose = async () => {
+      await cleanup();
     };
 
     await server.connect(transport);
-    return { server, transport };
+    return { server, transport, cleanup };
   }
 
   app.post(routePath, async (req, res) => {
@@ -56,10 +65,11 @@ export function mountStreamableHttpServer(app, routePath, createServer, options 
 
     try {
       if (sessionMode === "stateless") {
-        const { server, transport } = await createTransport();
+        const { server, transport, cleanup } = await createTransport();
         try {
           await transport.handleRequest(req, res, req.body);
         } finally {
+          await cleanup();
           await transport.close();
           await server.close();
         }

@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "salesforce": {
+      "url": "http://127.0.0.1:4200/salesforce/mcp"
+    },
+    "gainsight": {
+      "url": "http://127.0.0.1:4200/gainsight/mcp"
+    },
+    "zendesk": {
+      "url": "http://127.0.0.1:4200/zendesk/mcp"
+    },
+    "productboard": {
+      "url": "http://127.0.0.1:4200/productboard/mcp"
+    },
+    "gong": {
+      "url": "http://127.0.0.1:4200/gong/mcp"
+    },
+    "usage": {
+      "url": "http://127.0.0.1:4200/usage/mcp"
+    },
+    "people": {
+      "url": "http://127.0.0.1:4200/people/mcp"
+    },
+    "customer360": {
+      "url": "http://127.0.0.1:4200/customer360/mcp"
+    }
+  }
+}

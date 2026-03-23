@@ -1,0 +1,38 @@
+{
+  "accountId": "bluepeak-logistics",
+  "name": "BluePeak Logistics",
+  "segment": "Mid-Market",
+  "industry": "Logistics",
+  "arr": 210000,
+  "arrFormatted": "$210,000",
+  "renewalDate": "2026-08-20",
+  "renewalStage": "On Track",
+  "riskLevel": "low",
+  "healthScore": 84,
+  "healthDelta": 5,
+  "productLikes": [
+    "Task orchestration across depots",
+    "Easy exception tracking",
+    "Good support responsiveness"
+  ],
+  "painPoints": [
+    "Would like more native carrier integrations"
+  ],
+  "featureThemes": [
+    "Integrations"
+  ],
+  "ownerId": "rep-elena-torres",
+  "csmId": "csm-olivia-grant",
+  "supportOpenTickets": 2,
+  "recentCallCount": 4,
+  "usageTrend": [
+    73,
+    75,
+    77,
+    79,
+    81,
+    84
+  ],
+  "riskReasons": [],
+  "notes": "Healthy customer with clear operational value and room for integrations."
+}

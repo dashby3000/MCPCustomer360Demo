@@ -1,0 +1,506 @@
+[
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "healthScore": 92,
+    "healthDelta": 6,
+    "riskLevel": "low",
+    "renewalDate": "2026-09-30",
+    "daysToRenewal": 191,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-alturas-health-expansion",
+        "type": "Value Reinforcement",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Capture wins and maintain executive visibility."
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "healthScore": 88,
+    "healthDelta": 4,
+    "riskLevel": "low",
+    "renewalDate": "2026-10-15",
+    "daysToRenewal": 206,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-northstar-retail-expansion",
+        "type": "Expansion",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Use strong adoption and advocacy to scope expansion."
+      }
+    ],
+    "successPlan": {
+      "objective": "Scale successful workflows into more teams.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "healthScore": 84,
+    "healthDelta": 5,
+    "riskLevel": "low",
+    "renewalDate": "2026-08-20",
+    "daysToRenewal": 150,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-bluepeak-logistics-expansion",
+        "type": "Value Reinforcement",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Capture wins and maintain executive visibility."
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "healthScore": 47,
+    "healthDelta": -18,
+    "riskLevel": "high",
+    "renewalDate": "2026-06-30",
+    "daysToRenewal": 99,
+    "sponsorStatus": "Changed",
+    "championStatus": "Mixed",
+    "ctas": [
+      {
+        "ctaId": "cta-redwood-bank-1",
+        "type": "Renewal Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "Renewal within 100 days"
+      },
+      {
+        "ctaId": "cta-redwood-bank-2",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "Executive sponsor changed after internal reorg"
+      },
+      {
+        "ctaId": "cta-redwood-bank-3",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Monitoring",
+        "summary": "Usage and seat activation have declined for four straight months"
+      },
+      {
+        "ctaId": "cta-redwood-bank-4",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Monitoring",
+        "summary": "Repeated escalations tied to auditability and access control"
+      }
+    ],
+    "successPlan": {
+      "objective": "Recover stakeholder confidence before renewal.",
+      "nextMilestones": [
+        "Run executive recovery meeting",
+        "Close highest-severity product gaps or define mitigation plan",
+        "Re-baseline rollout by team"
+      ]
+    }
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "healthScore": 64,
+    "healthDelta": -6,
+    "riskLevel": "medium",
+    "renewalDate": "2026-07-31",
+    "daysToRenewal": 130,
+    "sponsorStatus": "Stable",
+    "championStatus": "Mixed",
+    "ctas": [
+      {
+        "ctaId": "cta-solstice-media-1",
+        "type": "Renewal Risk",
+        "priority": 2,
+        "status": "Open",
+        "summary": "Call volume is high and sentiment is mixed"
+      },
+      {
+        "ctaId": "cta-solstice-media-2",
+        "type": "Adoption Risk",
+        "priority": 2,
+        "status": "Open",
+        "summary": "Adoption remains concentrated in one team"
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "healthScore": 86,
+    "healthDelta": 7,
+    "riskLevel": "low",
+    "renewalDate": "2026-11-12",
+    "daysToRenewal": 234,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-meridian-bio-expansion",
+        "type": "Expansion",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Use strong adoption and advocacy to scope expansion."
+      }
+    ],
+    "successPlan": {
+      "objective": "Scale successful workflows into more teams.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "healthScore": 42,
+    "healthDelta": -20,
+    "riskLevel": "high",
+    "renewalDate": "2026-07-15",
+    "daysToRenewal": 114,
+    "sponsorStatus": "Changed",
+    "championStatus": "Weak",
+    "ctas": [
+      {
+        "ctaId": "cta-harbor-hotels-1",
+        "type": "Renewal Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "Renewal in under 120 days"
+      },
+      {
+        "ctaId": "cta-harbor-hotels-2",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "Champion left and new executive sponsor is unengaged"
+      },
+      {
+        "ctaId": "cta-harbor-hotels-3",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Monitoring",
+        "summary": "Usage has fallen sharply across properties"
+      },
+      {
+        "ctaId": "cta-harbor-hotels-4",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Monitoring",
+        "summary": "Frequent support contacts focus on mobile friction"
+      }
+    ],
+    "successPlan": {
+      "objective": "Recover stakeholder confidence before renewal.",
+      "nextMilestones": [
+        "Run executive recovery meeting",
+        "Close highest-severity product gaps or define mitigation plan",
+        "Re-baseline rollout by team"
+      ]
+    }
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "healthScore": 83,
+    "healthDelta": 3,
+    "riskLevel": "low",
+    "renewalDate": "2026-12-01",
+    "daysToRenewal": 253,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-ironcore-manufacturing-expansion",
+        "type": "Value Reinforcement",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Capture wins and maintain executive visibility."
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "healthScore": 68,
+    "healthDelta": -4,
+    "riskLevel": "medium",
+    "renewalDate": "2026-08-31",
+    "daysToRenewal": 161,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-lumen-energy-1",
+        "type": "Renewal Risk",
+        "priority": 2,
+        "status": "Open",
+        "summary": "Adoption slipped after integration delays"
+      },
+      {
+        "ctaId": "cta-lumen-energy-2",
+        "type": "Adoption Risk",
+        "priority": 2,
+        "status": "Open",
+        "summary": "Renewal is not immediate but sentiment is softening"
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "healthScore": 38,
+    "healthDelta": -15,
+    "riskLevel": "high",
+    "renewalDate": "2026-06-15",
+    "daysToRenewal": 84,
+    "sponsorStatus": "Stable",
+    "championStatus": "Weak",
+    "ctas": [
+      {
+        "ctaId": "cta-cedar-schools-1",
+        "type": "Renewal Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "Renewal is close and adoption remains weak"
+      },
+      {
+        "ctaId": "cta-cedar-schools-2",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "CS coverage has been reactive rather than proactive"
+      },
+      {
+        "ctaId": "cta-cedar-schools-3",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Monitoring",
+        "summary": "Permissioning and reporting gaps are blocking wider rollout"
+      }
+    ],
+    "successPlan": {
+      "objective": "Recover stakeholder confidence before renewal.",
+      "nextMilestones": [
+        "Run executive recovery meeting",
+        "Close highest-severity product gaps or define mitigation plan",
+        "Re-baseline rollout by team"
+      ]
+    }
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "healthScore": 87,
+    "healthDelta": 4,
+    "riskLevel": "low",
+    "renewalDate": "2027-01-20",
+    "daysToRenewal": 303,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-nimbus-insurance-expansion",
+        "type": "Value Reinforcement",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Capture wins and maintain executive visibility."
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "healthScore": 79,
+    "healthDelta": 5,
+    "riskLevel": "low",
+    "renewalDate": "2026-09-10",
+    "daysToRenewal": 171,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-freshfork-market-expansion",
+        "type": "Value Reinforcement",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Capture wins and maintain executive visibility."
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "healthScore": 85,
+    "healthDelta": 6,
+    "riskLevel": "low",
+    "renewalDate": "2026-11-30",
+    "daysToRenewal": 252,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-polaris-telecom-expansion",
+        "type": "Expansion",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Use strong adoption and advocacy to scope expansion."
+      }
+    ],
+    "successPlan": {
+      "objective": "Scale successful workflows into more teams.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "healthScore": 44,
+    "healthDelta": -13,
+    "riskLevel": "high",
+    "renewalDate": "2026-07-10",
+    "daysToRenewal": 109,
+    "sponsorStatus": "Changed",
+    "championStatus": "Weak",
+    "ctas": [
+      {
+        "ctaId": "cta-vanta-freight-1",
+        "type": "Renewal Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "High support load and falling usage"
+      },
+      {
+        "ctaId": "cta-vanta-freight-2",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Open",
+        "summary": "Renewal is approaching with little executive alignment"
+      },
+      {
+        "ctaId": "cta-vanta-freight-3",
+        "type": "Adoption Risk",
+        "priority": 3,
+        "status": "Monitoring",
+        "summary": "Integration complaints show up in every source"
+      }
+    ],
+    "successPlan": {
+      "objective": "Recover stakeholder confidence before renewal.",
+      "nextMilestones": [
+        "Run executive recovery meeting",
+        "Close highest-severity product gaps or define mitigation plan",
+        "Re-baseline rollout by team"
+      ]
+    }
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "healthScore": 90,
+    "healthDelta": 5,
+    "riskLevel": "low",
+    "renewalDate": "2026-12-15",
+    "daysToRenewal": 267,
+    "sponsorStatus": "Stable",
+    "championStatus": "Strong",
+    "ctas": [
+      {
+        "ctaId": "cta-oakwell-capital-expansion",
+        "type": "Value Reinforcement",
+        "priority": 1,
+        "status": "Open",
+        "summary": "Capture wins and maintain executive visibility."
+      }
+    ],
+    "successPlan": {
+      "objective": "Sustain adoption and document business value.",
+      "nextMilestones": [
+        "Share usage wins with sponsor",
+        "Refresh success metrics",
+        "Review roadmap alignment in next QBR"
+      ]
+    }
+  }
+]

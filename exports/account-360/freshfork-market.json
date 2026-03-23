@@ -1,0 +1,38 @@
+{
+  "accountId": "freshfork-market",
+  "name": "FreshFork Market",
+  "segment": "Mid-Market",
+  "industry": "Food Retail",
+  "arr": 145000,
+  "arrFormatted": "$145,000",
+  "renewalDate": "2026-09-10",
+  "renewalStage": "On Track",
+  "riskLevel": "low",
+  "healthScore": 79,
+  "healthDelta": 5,
+  "productLikes": [
+    "Store manager coordination",
+    "Simple task visibility",
+    "Good support empathy"
+  ],
+  "painPoints": [
+    "Wants better mobile speed in low-connectivity environments"
+  ],
+  "featureThemes": [
+    "Mobile Experience"
+  ],
+  "ownerId": "rep-isaac-romero",
+  "csmId": "csm-jordan-kim",
+  "supportOpenTickets": 2,
+  "recentCallCount": 5,
+  "usageTrend": [
+    71,
+    73,
+    74,
+    76,
+    78,
+    80
+  ],
+  "riskReasons": [],
+  "notes": "Loyal, support-heavy but healthy account."
+}

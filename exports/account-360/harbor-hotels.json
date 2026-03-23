@@ -1,0 +1,44 @@
+{
+  "accountId": "harbor-hotels",
+  "name": "Harbor Hotels",
+  "segment": "Mid-Market",
+  "industry": "Hospitality",
+  "arr": 155000,
+  "arrFormatted": "$155,000",
+  "renewalDate": "2026-07-15",
+  "renewalStage": "At Risk",
+  "riskLevel": "high",
+  "healthScore": 42,
+  "healthDelta": -20,
+  "productLikes": [
+    "Property-level coordination when it works"
+  ],
+  "painPoints": [
+    "Needs better mobile experience for managers on the floor",
+    "Asks for easier permissions for regional leaders",
+    "Complains that rollout stalled after champion left"
+  ],
+  "featureThemes": [
+    "Mobile Experience",
+    "Role-Based Permissions"
+  ],
+  "ownerId": "rep-ben-foster",
+  "csmId": "csm-jordan-kim",
+  "supportOpenTickets": 2,
+  "recentCallCount": 9,
+  "usageTrend": [
+    70,
+    66,
+    61,
+    57,
+    52,
+    46
+  ],
+  "riskReasons": [
+    "Renewal in under 120 days",
+    "Champion left and new executive sponsor is unengaged",
+    "Usage has fallen sharply across properties",
+    "Frequent support contacts focus on mobile friction"
+  ],
+  "notes": "High-risk account driven by adoption decay and ownership disruption."
+}

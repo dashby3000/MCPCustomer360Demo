@@ -1,0 +1,68 @@
+[
+  {
+    "theme": "reporting_exports",
+    "themeLabel": "Reporting And Exports",
+    "requestCount": 7,
+    "impactedAccounts": 7,
+    "impactedArr": 2110000,
+    "impactedArrFormatted": "$2,110,000",
+    "criticalCount": 3,
+    "problem": "Leaders want dashboard exports that fit board, audit, and operating review formats.",
+    "roadmapCandidate": "Custom export builder, scheduled CSV/PDF delivery, and template library"
+  },
+  {
+    "theme": "rbac_permissions",
+    "themeLabel": "Role-Based Permissions",
+    "requestCount": 4,
+    "impactedAccounts": 4,
+    "impactedArr": 1130000,
+    "impactedArrFormatted": "$1,130,000",
+    "criticalCount": 3,
+    "problem": "Admins need more granular control by region, school, property, or function.",
+    "roadmapCandidate": "Scoped roles, field-level permissions, and regional admin templates"
+  },
+  {
+    "theme": "workflow_automation",
+    "themeLabel": "Workflow Automation",
+    "requestCount": 6,
+    "impactedAccounts": 6,
+    "impactedArr": 1700000,
+    "impactedArrFormatted": "$1,700,000",
+    "criticalCount": 2,
+    "problem": "Teams want no-code routing and follow-up rules without brittle setup.",
+    "roadmapCandidate": "Visual builder, safer rule testing, and reusable automation recipes"
+  },
+  {
+    "theme": "integrations",
+    "themeLabel": "Integrations",
+    "requestCount": 5,
+    "impactedAccounts": 5,
+    "impactedArr": 1550000,
+    "impactedArrFormatted": "$1,550,000",
+    "criticalCount": 1,
+    "problem": "Rollouts stall when data must be moved manually across adjacent systems.",
+    "roadmapCandidate": "Prebuilt connectors, deeper API coverage, and integration health monitoring"
+  },
+  {
+    "theme": "mobile_experience",
+    "themeLabel": "Mobile Experience",
+    "requestCount": 5,
+    "impactedAccounts": 5,
+    "impactedArr": 1245000,
+    "impactedArrFormatted": "$1,245,000",
+    "criticalCount": 1,
+    "problem": "Frontline managers need a faster mobile workflow for approvals and updates.",
+    "roadmapCandidate": "Offline support, quicker approvals, and simplified manager views"
+  },
+  {
+    "theme": "audit_logs",
+    "themeLabel": "Audit Logs And Compliance",
+    "requestCount": 2,
+    "impactedAccounts": 2,
+    "impactedArr": 735000,
+    "impactedArrFormatted": "$735,000",
+    "criticalCount": 1,
+    "problem": "Regulated customers want deeper, easier-to-search change history.",
+    "roadmapCandidate": "Expanded audit event coverage, exportable logs, and retention controls"
+  }
+]

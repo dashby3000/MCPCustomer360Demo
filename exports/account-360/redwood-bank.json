@@ -1,0 +1,46 @@
+{
+  "accountId": "redwood-bank",
+  "name": "Redwood Bank",
+  "segment": "Enterprise",
+  "industry": "Financial Services",
+  "arr": 460000,
+  "arrFormatted": "$460,000",
+  "renewalDate": "2026-06-30",
+  "renewalStage": "At Risk",
+  "riskLevel": "high",
+  "healthScore": 47,
+  "healthDelta": -18,
+  "productLikes": [
+    "Strong workflow auditability",
+    "Vendor team is responsive"
+  ],
+  "painPoints": [
+    "Needs deeper audit logs",
+    "Role permissions are too coarse",
+    "Reporting exports are manual"
+  ],
+  "featureThemes": [
+    "Audit Logs And Compliance",
+    "Role-Based Permissions",
+    "Reporting And Exports"
+  ],
+  "ownerId": "rep-elena-torres",
+  "csmId": "csm-serena-patel",
+  "supportOpenTickets": 2,
+  "recentCallCount": 7,
+  "usageTrend": [
+    81,
+    77,
+    72,
+    68,
+    63,
+    58
+  ],
+  "riskReasons": [
+    "Renewal within 100 days",
+    "Executive sponsor changed after internal reorg",
+    "Usage and seat activation have declined for four straight months",
+    "Repeated escalations tied to auditability and access control"
+  ],
+  "notes": "Flagship churn-risk account with commercial, support, and product pressure aligned."
+}

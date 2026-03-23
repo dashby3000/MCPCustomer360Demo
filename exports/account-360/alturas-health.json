@@ -1,0 +1,39 @@
+{
+  "accountId": "alturas-health",
+  "name": "Alturas Health",
+  "segment": "Enterprise",
+  "industry": "Healthcare Operations",
+  "arr": 420000,
+  "arrFormatted": "$420,000",
+  "renewalDate": "2026-09-30",
+  "renewalStage": "On Track",
+  "riskLevel": "low",
+  "healthScore": 92,
+  "healthDelta": 6,
+  "productLikes": [
+    "Cross-functional workflow visibility",
+    "Fast implementation for regional clinics",
+    "Reliable alerts for handoff bottlenecks"
+  ],
+  "painPoints": [
+    "Would like deeper export customization"
+  ],
+  "featureThemes": [
+    "Reporting And Exports",
+    "Workflow Automation"
+  ],
+  "ownerId": "rep-maya-chen",
+  "csmId": "csm-olivia-grant",
+  "supportOpenTickets": 2,
+  "recentCallCount": 5,
+  "usageTrend": [
+    84,
+    86,
+    88,
+    89,
+    91,
+    93
+  ],
+  "riskReasons": [],
+  "notes": "Model customer with broad adoption, strong executive sponsorship, and clear ROI."
+}

@@ -1,0 +1,42 @@
+{
+  "accountId": "lumen-energy",
+  "name": "Lumen Energy Services",
+  "segment": "Enterprise",
+  "industry": "Energy",
+  "arr": 370000,
+  "arrFormatted": "$370,000",
+  "renewalDate": "2026-08-31",
+  "renewalStage": "Watch",
+  "riskLevel": "medium",
+  "healthScore": 68,
+  "healthDelta": -4,
+  "productLikes": [
+    "Strong field-operations coordination",
+    "Executive dashboards help regional planning"
+  ],
+  "painPoints": [
+    "Integration backlog is slowing rollout",
+    "Asks for offline and mobile workflow improvements"
+  ],
+  "featureThemes": [
+    "Integrations",
+    "Mobile Experience"
+  ],
+  "ownerId": "rep-maya-chen",
+  "csmId": "csm-serena-patel",
+  "supportOpenTickets": 2,
+  "recentCallCount": 6,
+  "usageTrend": [
+    83,
+    82,
+    80,
+    77,
+    75,
+    73
+  ],
+  "riskReasons": [
+    "Adoption slipped after integration delays",
+    "Renewal is not immediate but sentiment is softening"
+  ],
+  "notes": "Strategic account with recoverable risk if integration gaps are addressed."
+}

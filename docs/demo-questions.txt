@@ -1,0 +1,12 @@
+Which accounts are at risk for churn, and why?
+What is the health score of my top 5 accounts, and what should I know about them?
+Show me everything going on with Redwood Bank.
+Now show me what Alturas Health is doing differently.
+Which customers call support and join calls the most, and are they actually at risk?
+What do my best reps, CSMs, and support employees do differently from everyone else?
+What do my best customers have in common?
+What do customers like about the product?
+Who keeps mentioning things they wish they could do in the product?
+What tangents do our reps go on? What tangents do our customers go on?
+What features do customers complain about or request the most?
+Build a roadmap for me based on customer feedback, ARR impact, and churn risk.

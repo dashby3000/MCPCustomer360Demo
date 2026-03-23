@@ -1,0 +1,40 @@
+{
+  "accountId": "northstar-retail",
+  "name": "Northstar Retail Group",
+  "segment": "Enterprise",
+  "industry": "Retail Operations",
+  "arr": 390000,
+  "arrFormatted": "$390,000",
+  "renewalDate": "2026-10-15",
+  "renewalStage": "Expansion Likely",
+  "riskLevel": "low",
+  "healthScore": 88,
+  "healthDelta": 4,
+  "productLikes": [
+    "Store launch templates",
+    "Region-level reporting",
+    "Cross-team accountability"
+  ],
+  "painPoints": [
+    "Wants mobile approvals to feel faster",
+    "Needs more flexible role permissions"
+  ],
+  "featureThemes": [
+    "Mobile Experience",
+    "Role-Based Permissions"
+  ],
+  "ownerId": "rep-priya-shah",
+  "csmId": "csm-serena-patel",
+  "supportOpenTickets": 2,
+  "recentCallCount": 6,
+  "usageTrend": [
+    81,
+    82,
+    83,
+    86,
+    87,
+    89
+  ],
+  "riskReasons": [],
+  "notes": "Demanding but healthy strategic account with clear expansion story."
+}

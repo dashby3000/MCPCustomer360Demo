@@ -1,0 +1,38 @@
+{
+  "accountId": "meridian-bio",
+  "name": "Meridian BioLabs",
+  "segment": "Mid-Market",
+  "industry": "Biotech",
+  "arr": 275000,
+  "arrFormatted": "$275,000",
+  "renewalDate": "2026-11-12",
+  "renewalStage": "Expansion Likely",
+  "riskLevel": "low",
+  "healthScore": 86,
+  "healthDelta": 7,
+  "productLikes": [
+    "Cross-functional experiment tracking",
+    "Clear ownership during handoffs",
+    "Strong support during implementation"
+  ],
+  "painPoints": [
+    "Would like stronger compliance logging"
+  ],
+  "featureThemes": [
+    "Audit Logs And Compliance"
+  ],
+  "ownerId": "rep-maya-chen",
+  "csmId": "csm-serena-patel",
+  "supportOpenTickets": 2,
+  "recentCallCount": 4,
+  "usageTrend": [
+    72,
+    75,
+    78,
+    81,
+    84,
+    86
+  ],
+  "riskReasons": [],
+  "notes": "Healthy, expanding account with one strategic compliance ask."
+}

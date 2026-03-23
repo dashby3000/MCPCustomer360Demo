@@ -1,0 +1,52 @@
+{
+  "mcpServers": {
+    "salesforce": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/salesforce.js"
+      ]
+    },
+    "gainsight": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/gainsight.js"
+      ]
+    },
+    "zendesk": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/zendesk.js"
+      ]
+    },
+    "productboard": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/productboard.js"
+      ]
+    },
+    "gong": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/gong.js"
+      ]
+    },
+    "usage": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/usage.js"
+      ]
+    },
+    "people": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/people.js"
+      ]
+    },
+    "customer360": {
+      "command": "node",
+      "args": [
+        "/Users/dashby/Workarea/AmaroDemoData/src/servers/customer360.js"
+      ]
+    }
+  }
+}

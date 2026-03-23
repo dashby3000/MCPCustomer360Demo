@@ -1,0 +1,41 @@
+{
+  "name": "amaro-demo-data",
+  "version": "1.0.0",
+  "description": "Synthetic Customer 360 demo data and mock MCP servers for Amaro",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "export:data": "node src/scripts/export-data.js",
+    "smoke": "node src/scripts/smoke-test.js",
+    "smoke:http": "node src/scripts/smoke-test-http.js",
+    "server:salesforce": "node src/servers/salesforce.js",
+    "server:gainsight": "node src/servers/gainsight.js",
+    "server:zendesk": "node src/servers/zendesk.js",
+    "server:productboard": "node src/servers/productboard.js",
+    "server:gong": "node src/servers/gong.js",
+    "server:usage": "node src/servers/usage.js",
+    "server:people": "node src/servers/people.js",
+    "server:customer360": "node src/servers/customer360.js",
+    "server:http:salesforce": "node src/servers/salesforce.js --http",
+    "server:http:gainsight": "node src/servers/gainsight.js --http",
+    "server:http:zendesk": "node src/servers/zendesk.js --http",
+    "server:http:productboard": "node src/servers/productboard.js --http",
+    "server:http:gong": "node src/servers/gong.js --http",
+    "server:http:usage": "node src/servers/usage.js --http",
+    "server:http:people": "node src/servers/people.js --http",
+    "server:http:customer360": "node src/servers/customer360.js --http",
+    "server:http:all": "node src/scripts/serve-streaming.js"
+  },
+  "keywords": [
+    "mcp",
+    "synthetic-data",
+    "customer-360",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^4.3.6"
+  }
+}

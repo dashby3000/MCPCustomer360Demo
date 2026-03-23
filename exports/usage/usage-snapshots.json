@@ -1,0 +1,812 @@
+[
+  {
+    "accountId": "alturas-health",
+    "month": "2025-10",
+    "activeSeatPct": 84,
+    "activeSeats": 689,
+    "workflowRuns": 123984,
+    "dashboardsViewed": 61992,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "alturas-health",
+    "month": "2025-11",
+    "activeSeatPct": 86,
+    "activeSeats": 705,
+    "workflowRuns": 126946,
+    "dashboardsViewed": 63475,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "alturas-health",
+    "month": "2025-12",
+    "activeSeatPct": 88,
+    "activeSeats": 722,
+    "workflowRuns": 129908,
+    "dashboardsViewed": 64958,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "alturas-health",
+    "month": "2026-01",
+    "activeSeatPct": 89,
+    "activeSeats": 730,
+    "workflowRuns": 131394,
+    "dashboardsViewed": 65703,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "alturas-health",
+    "month": "2026-02",
+    "activeSeatPct": 91,
+    "activeSeats": 746,
+    "workflowRuns": 134356,
+    "dashboardsViewed": 67186,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "alturas-health",
+    "month": "2026-03",
+    "activeSeatPct": 93,
+    "activeSeats": 763,
+    "workflowRuns": 137318,
+    "dashboardsViewed": 68669,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "northstar-retail",
+    "month": "2025-10",
+    "activeSeatPct": 81,
+    "activeSeats": 729,
+    "workflowRuns": 131220,
+    "dashboardsViewed": 65610,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "northstar-retail",
+    "month": "2025-11",
+    "activeSeatPct": 82,
+    "activeSeats": 738,
+    "workflowRuns": 132850,
+    "dashboardsViewed": 66427,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "northstar-retail",
+    "month": "2025-12",
+    "activeSeatPct": 83,
+    "activeSeats": 747,
+    "workflowRuns": 134480,
+    "dashboardsViewed": 67244,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "northstar-retail",
+    "month": "2026-01",
+    "activeSeatPct": 86,
+    "activeSeats": 774,
+    "workflowRuns": 139350,
+    "dashboardsViewed": 69681,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "northstar-retail",
+    "month": "2026-02",
+    "activeSeatPct": 87,
+    "activeSeats": 783,
+    "workflowRuns": 140980,
+    "dashboardsViewed": 70498,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "northstar-retail",
+    "month": "2026-03",
+    "activeSeatPct": 89,
+    "activeSeats": 801,
+    "workflowRuns": 144230,
+    "dashboardsViewed": 72125,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "month": "2025-10",
+    "activeSeatPct": 73,
+    "activeSeats": 307,
+    "workflowRuns": 55188,
+    "dashboardsViewed": 27594,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "month": "2025-11",
+    "activeSeatPct": 75,
+    "activeSeats": 315,
+    "workflowRuns": 56710,
+    "dashboardsViewed": 28357,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "month": "2025-12",
+    "activeSeatPct": 77,
+    "activeSeats": 323,
+    "workflowRuns": 58232,
+    "dashboardsViewed": 29120,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "month": "2026-01",
+    "activeSeatPct": 79,
+    "activeSeats": 332,
+    "workflowRuns": 59754,
+    "dashboardsViewed": 29883,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "month": "2026-02",
+    "activeSeatPct": 81,
+    "activeSeats": 340,
+    "workflowRuns": 61276,
+    "dashboardsViewed": 30646,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "month": "2026-03",
+    "activeSeatPct": 84,
+    "activeSeats": 353,
+    "workflowRuns": 63554,
+    "dashboardsViewed": 31787,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "redwood-bank",
+    "month": "2025-10",
+    "activeSeatPct": 81,
+    "activeSeats": 616,
+    "workflowRuns": 110808,
+    "dashboardsViewed": 55404,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "redwood-bank",
+    "month": "2025-11",
+    "activeSeatPct": 77,
+    "activeSeats": 585,
+    "workflowRuns": 105346,
+    "dashboardsViewed": 52675,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "redwood-bank",
+    "month": "2025-12",
+    "activeSeatPct": 72,
+    "activeSeats": 547,
+    "workflowRuns": 98516,
+    "dashboardsViewed": 49262,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "redwood-bank",
+    "month": "2026-01",
+    "activeSeatPct": 68,
+    "activeSeats": 517,
+    "workflowRuns": 93054,
+    "dashboardsViewed": 46533,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "redwood-bank",
+    "month": "2026-02",
+    "activeSeatPct": 63,
+    "activeSeats": 479,
+    "workflowRuns": 86224,
+    "dashboardsViewed": 43120,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "redwood-bank",
+    "month": "2026-03",
+    "activeSeatPct": 58,
+    "activeSeats": 441,
+    "workflowRuns": 79394,
+    "dashboardsViewed": 39707,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "solstice-media",
+    "month": "2025-10",
+    "activeSeatPct": 76,
+    "activeSeats": 198,
+    "workflowRuns": 35568,
+    "dashboardsViewed": 17784,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "solstice-media",
+    "month": "2025-11",
+    "activeSeatPct": 74,
+    "activeSeats": 192,
+    "workflowRuns": 34642,
+    "dashboardsViewed": 17323,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "solstice-media",
+    "month": "2025-12",
+    "activeSeatPct": 73,
+    "activeSeats": 190,
+    "workflowRuns": 34184,
+    "dashboardsViewed": 17096,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "solstice-media",
+    "month": "2026-01",
+    "activeSeatPct": 71,
+    "activeSeats": 185,
+    "workflowRuns": 33258,
+    "dashboardsViewed": 16635,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "solstice-media",
+    "month": "2026-02",
+    "activeSeatPct": 69,
+    "activeSeats": 179,
+    "workflowRuns": 32332,
+    "dashboardsViewed": 16174,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "solstice-media",
+    "month": "2026-03",
+    "activeSeatPct": 66,
+    "activeSeats": 172,
+    "workflowRuns": 30938,
+    "dashboardsViewed": 15479,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "meridian-bio",
+    "month": "2025-10",
+    "activeSeatPct": 72,
+    "activeSeats": 245,
+    "workflowRuns": 44064,
+    "dashboardsViewed": 22032,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "meridian-bio",
+    "month": "2025-11",
+    "activeSeatPct": 75,
+    "activeSeats": 255,
+    "workflowRuns": 45910,
+    "dashboardsViewed": 22957,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "meridian-bio",
+    "month": "2025-12",
+    "activeSeatPct": 78,
+    "activeSeats": 265,
+    "workflowRuns": 47756,
+    "dashboardsViewed": 23882,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "meridian-bio",
+    "month": "2026-01",
+    "activeSeatPct": 81,
+    "activeSeats": 275,
+    "workflowRuns": 49602,
+    "dashboardsViewed": 24807,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "meridian-bio",
+    "month": "2026-02",
+    "activeSeatPct": 84,
+    "activeSeats": 286,
+    "workflowRuns": 51448,
+    "dashboardsViewed": 25732,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "meridian-bio",
+    "month": "2026-03",
+    "activeSeatPct": 86,
+    "activeSeats": 292,
+    "workflowRuns": 52682,
+    "dashboardsViewed": 26351,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "harbor-hotels",
+    "month": "2025-10",
+    "activeSeatPct": 70,
+    "activeSeats": 196,
+    "workflowRuns": 35280,
+    "dashboardsViewed": 17640,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "harbor-hotels",
+    "month": "2025-11",
+    "activeSeatPct": 66,
+    "activeSeats": 185,
+    "workflowRuns": 33274,
+    "dashboardsViewed": 16639,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "harbor-hotels",
+    "month": "2025-12",
+    "activeSeatPct": 61,
+    "activeSeats": 171,
+    "workflowRuns": 30764,
+    "dashboardsViewed": 15386,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "harbor-hotels",
+    "month": "2026-01",
+    "activeSeatPct": 57,
+    "activeSeats": 160,
+    "workflowRuns": 28758,
+    "dashboardsViewed": 14385,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "harbor-hotels",
+    "month": "2026-02",
+    "activeSeatPct": 52,
+    "activeSeats": 146,
+    "workflowRuns": 26248,
+    "dashboardsViewed": 13132,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "harbor-hotels",
+    "month": "2026-03",
+    "activeSeatPct": 46,
+    "activeSeats": 129,
+    "workflowRuns": 23234,
+    "dashboardsViewed": 11627,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "month": "2025-10",
+    "activeSeatPct": 78,
+    "activeSeats": 476,
+    "workflowRuns": 85644,
+    "dashboardsViewed": 42822,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "month": "2025-11",
+    "activeSeatPct": 79,
+    "activeSeats": 482,
+    "workflowRuns": 86752,
+    "dashboardsViewed": 43378,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "month": "2025-12",
+    "activeSeatPct": 80,
+    "activeSeats": 488,
+    "workflowRuns": 87860,
+    "dashboardsViewed": 43934,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "month": "2026-01",
+    "activeSeatPct": 81,
+    "activeSeats": 494,
+    "workflowRuns": 88968,
+    "dashboardsViewed": 44490,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "month": "2026-02",
+    "activeSeatPct": 82,
+    "activeSeats": 500,
+    "workflowRuns": 90076,
+    "dashboardsViewed": 45046,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "month": "2026-03",
+    "activeSeatPct": 84,
+    "activeSeats": 512,
+    "workflowRuns": 92282,
+    "dashboardsViewed": 46151,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "lumen-energy",
+    "month": "2025-10",
+    "activeSeatPct": 83,
+    "activeSeats": 490,
+    "workflowRuns": 88146,
+    "dashboardsViewed": 44073,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "lumen-energy",
+    "month": "2025-11",
+    "activeSeatPct": 82,
+    "activeSeats": 484,
+    "workflowRuns": 87094,
+    "dashboardsViewed": 43549,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "lumen-energy",
+    "month": "2025-12",
+    "activeSeatPct": 80,
+    "activeSeats": 472,
+    "workflowRuns": 84980,
+    "dashboardsViewed": 42494,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "lumen-energy",
+    "month": "2026-01",
+    "activeSeatPct": 77,
+    "activeSeats": 454,
+    "workflowRuns": 81804,
+    "dashboardsViewed": 40908,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "lumen-energy",
+    "month": "2026-02",
+    "activeSeatPct": 75,
+    "activeSeats": 443,
+    "workflowRuns": 79690,
+    "dashboardsViewed": 39853,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "lumen-energy",
+    "month": "2026-03",
+    "activeSeatPct": 73,
+    "activeSeats": 431,
+    "workflowRuns": 77576,
+    "dashboardsViewed": 38798,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "cedar-schools",
+    "month": "2025-10",
+    "activeSeatPct": 65,
+    "activeSeats": 202,
+    "workflowRuns": 36270,
+    "dashboardsViewed": 18135,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "cedar-schools",
+    "month": "2025-11",
+    "activeSeatPct": 61,
+    "activeSeats": 189,
+    "workflowRuns": 34048,
+    "dashboardsViewed": 17026,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "cedar-schools",
+    "month": "2025-12",
+    "activeSeatPct": 57,
+    "activeSeats": 177,
+    "workflowRuns": 31826,
+    "dashboardsViewed": 15917,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "cedar-schools",
+    "month": "2026-01",
+    "activeSeatPct": 52,
+    "activeSeats": 161,
+    "workflowRuns": 29046,
+    "dashboardsViewed": 14529,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "cedar-schools",
+    "month": "2026-02",
+    "activeSeatPct": 48,
+    "activeSeats": 149,
+    "workflowRuns": 26824,
+    "dashboardsViewed": 13420,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "cedar-schools",
+    "month": "2026-03",
+    "activeSeatPct": 44,
+    "activeSeats": 136,
+    "workflowRuns": 24602,
+    "dashboardsViewed": 12311,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "month": "2025-10",
+    "activeSeatPct": 84,
+    "activeSeats": 613,
+    "workflowRuns": 110376,
+    "dashboardsViewed": 55188,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "month": "2025-11",
+    "activeSeatPct": 85,
+    "activeSeats": 621,
+    "workflowRuns": 111700,
+    "dashboardsViewed": 55852,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "month": "2025-12",
+    "activeSeatPct": 85,
+    "activeSeats": 621,
+    "workflowRuns": 111710,
+    "dashboardsViewed": 55859,
+    "adoptionTrend": "flat"
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "month": "2026-01",
+    "activeSeatPct": 86,
+    "activeSeats": 628,
+    "workflowRuns": 113034,
+    "dashboardsViewed": 56523,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "month": "2026-02",
+    "activeSeatPct": 87,
+    "activeSeats": 635,
+    "workflowRuns": 114358,
+    "dashboardsViewed": 57187,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "month": "2026-03",
+    "activeSeatPct": 88,
+    "activeSeats": 642,
+    "workflowRuns": 115682,
+    "dashboardsViewed": 57851,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "freshfork-market",
+    "month": "2025-10",
+    "activeSeatPct": 71,
+    "activeSeats": 178,
+    "workflowRuns": 31950,
+    "dashboardsViewed": 15975,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "freshfork-market",
+    "month": "2025-11",
+    "activeSeatPct": 73,
+    "activeSeats": 183,
+    "workflowRuns": 32860,
+    "dashboardsViewed": 16432,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "freshfork-market",
+    "month": "2025-12",
+    "activeSeatPct": 74,
+    "activeSeats": 185,
+    "workflowRuns": 33320,
+    "dashboardsViewed": 16664,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "freshfork-market",
+    "month": "2026-01",
+    "activeSeatPct": 76,
+    "activeSeats": 190,
+    "workflowRuns": 34230,
+    "dashboardsViewed": 17121,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "freshfork-market",
+    "month": "2026-02",
+    "activeSeatPct": 78,
+    "activeSeats": 195,
+    "workflowRuns": 35140,
+    "dashboardsViewed": 17578,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "freshfork-market",
+    "month": "2026-03",
+    "activeSeatPct": 80,
+    "activeSeats": 200,
+    "workflowRuns": 36050,
+    "dashboardsViewed": 18035,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "polaris-telecom",
+    "month": "2025-10",
+    "activeSeatPct": 76,
+    "activeSeats": 638,
+    "workflowRuns": 114912,
+    "dashboardsViewed": 57456,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "polaris-telecom",
+    "month": "2025-11",
+    "activeSeatPct": 79,
+    "activeSeats": 664,
+    "workflowRuns": 119458,
+    "dashboardsViewed": 59731,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "polaris-telecom",
+    "month": "2025-12",
+    "activeSeatPct": 80,
+    "activeSeats": 672,
+    "workflowRuns": 120980,
+    "dashboardsViewed": 60494,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "polaris-telecom",
+    "month": "2026-01",
+    "activeSeatPct": 82,
+    "activeSeats": 689,
+    "workflowRuns": 124014,
+    "dashboardsViewed": 62013,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "polaris-telecom",
+    "month": "2026-02",
+    "activeSeatPct": 84,
+    "activeSeats": 706,
+    "workflowRuns": 127048,
+    "dashboardsViewed": 63532,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "polaris-telecom",
+    "month": "2026-03",
+    "activeSeatPct": 86,
+    "activeSeats": 722,
+    "workflowRuns": 130082,
+    "dashboardsViewed": 65051,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "vanta-freight",
+    "month": "2025-10",
+    "activeSeatPct": 69,
+    "activeSeats": 248,
+    "workflowRuns": 44712,
+    "dashboardsViewed": 22356,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "vanta-freight",
+    "month": "2025-11",
+    "activeSeatPct": 66,
+    "activeSeats": 238,
+    "workflowRuns": 42778,
+    "dashboardsViewed": 21391,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "vanta-freight",
+    "month": "2025-12",
+    "activeSeatPct": 63,
+    "activeSeats": 227,
+    "workflowRuns": 40844,
+    "dashboardsViewed": 20426,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "vanta-freight",
+    "month": "2026-01",
+    "activeSeatPct": 60,
+    "activeSeats": 216,
+    "workflowRuns": 38910,
+    "dashboardsViewed": 19461,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "vanta-freight",
+    "month": "2026-02",
+    "activeSeatPct": 56,
+    "activeSeats": 202,
+    "workflowRuns": 36328,
+    "dashboardsViewed": 18172,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "vanta-freight",
+    "month": "2026-03",
+    "activeSeatPct": 51,
+    "activeSeats": 184,
+    "workflowRuns": 33098,
+    "dashboardsViewed": 16559,
+    "adoptionTrend": "down"
+  },
+  {
+    "accountId": "oakwell-capital",
+    "month": "2025-10",
+    "activeSeatPct": 88,
+    "activeSeats": 158,
+    "workflowRuns": 28512,
+    "dashboardsViewed": 14256,
+    "adoptionTrend": "baseline"
+  },
+  {
+    "accountId": "oakwell-capital",
+    "month": "2025-11",
+    "activeSeatPct": 88,
+    "activeSeats": 158,
+    "workflowRuns": 28522,
+    "dashboardsViewed": 14263,
+    "adoptionTrend": "flat"
+  },
+  {
+    "accountId": "oakwell-capital",
+    "month": "2025-12",
+    "activeSeatPct": 89,
+    "activeSeats": 160,
+    "workflowRuns": 28856,
+    "dashboardsViewed": 14432,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "oakwell-capital",
+    "month": "2026-01",
+    "activeSeatPct": 90,
+    "activeSeats": 162,
+    "workflowRuns": 29190,
+    "dashboardsViewed": 14601,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "oakwell-capital",
+    "month": "2026-02",
+    "activeSeatPct": 91,
+    "activeSeats": 164,
+    "workflowRuns": 29524,
+    "dashboardsViewed": 14770,
+    "adoptionTrend": "up"
+  },
+  {
+    "accountId": "oakwell-capital",
+    "month": "2026-03",
+    "activeSeatPct": 92,
+    "activeSeats": 166,
+    "workflowRuns": 29858,
+    "dashboardsViewed": 14939,
+    "adoptionTrend": "up"
+  }
+]

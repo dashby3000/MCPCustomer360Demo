@@ -1,0 +1,44 @@
+{
+  "accountId": "cedar-schools",
+  "name": "Cedar Public Schools",
+  "segment": "Mid-Market",
+  "industry": "Education",
+  "arr": 125000,
+  "arrFormatted": "$125,000",
+  "renewalDate": "2026-06-15",
+  "renewalStage": "At Risk",
+  "riskLevel": "high",
+  "healthScore": 38,
+  "healthDelta": -15,
+  "productLikes": [
+    "Initial onboarding was smooth"
+  ],
+  "painPoints": [
+    "District leaders want easier reporting exports",
+    "Admins struggle with permissions by school",
+    "Automation setup has stalled"
+  ],
+  "featureThemes": [
+    "Reporting And Exports",
+    "Role-Based Permissions",
+    "Workflow Automation"
+  ],
+  "ownerId": "rep-ben-foster",
+  "csmId": "csm-marcus-lee",
+  "supportOpenTickets": 2,
+  "recentCallCount": 7,
+  "usageTrend": [
+    65,
+    61,
+    57,
+    52,
+    48,
+    44
+  ],
+  "riskReasons": [
+    "Renewal is close and adoption remains weak",
+    "CS coverage has been reactive rather than proactive",
+    "Permissioning and reporting gaps are blocking wider rollout"
+  ],
+  "notes": "Small ARR but very clear churn narrative and product gap story."
+}

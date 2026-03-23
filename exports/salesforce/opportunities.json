@@ -1,0 +1,167 @@
+[
+  {
+    "opportunityId": "opp-alturas-health-renewal",
+    "accountId": "alturas-health",
+    "type": "Renewal",
+    "stage": "On Track",
+    "amount": 420000,
+    "amountFormatted": "$420,000",
+    "closeDate": "2026-09-30",
+    "probabilityPct": 92,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-northstar-retail-renewal",
+    "accountId": "northstar-retail",
+    "type": "Renewal",
+    "stage": "Expansion Likely",
+    "amount": 390000,
+    "amountFormatted": "$390,000",
+    "closeDate": "2026-10-15",
+    "probabilityPct": 92,
+    "summary": "Renewal with credible expansion path if roadmap asks stay on track."
+  },
+  {
+    "opportunityId": "opp-bluepeak-logistics-renewal",
+    "accountId": "bluepeak-logistics",
+    "type": "Renewal",
+    "stage": "On Track",
+    "amount": 210000,
+    "amountFormatted": "$210,000",
+    "closeDate": "2026-08-20",
+    "probabilityPct": 92,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-redwood-bank-renewal",
+    "accountId": "redwood-bank",
+    "type": "Renewal",
+    "stage": "At Risk",
+    "amount": 460000,
+    "amountFormatted": "$460,000",
+    "closeDate": "2026-06-30",
+    "probabilityPct": 45,
+    "summary": "Commercial risk tied to product gaps, sponsor change, and shrinking adoption."
+  },
+  {
+    "opportunityId": "opp-solstice-media-renewal",
+    "accountId": "solstice-media",
+    "type": "Renewal",
+    "stage": "Watch",
+    "amount": 185000,
+    "amountFormatted": "$185,000",
+    "closeDate": "2026-07-31",
+    "probabilityPct": 70,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-meridian-bio-renewal",
+    "accountId": "meridian-bio",
+    "type": "Renewal",
+    "stage": "Expansion Likely",
+    "amount": 275000,
+    "amountFormatted": "$275,000",
+    "closeDate": "2026-11-12",
+    "probabilityPct": 92,
+    "summary": "Renewal with credible expansion path if roadmap asks stay on track."
+  },
+  {
+    "opportunityId": "opp-harbor-hotels-renewal",
+    "accountId": "harbor-hotels",
+    "type": "Renewal",
+    "stage": "At Risk",
+    "amount": 155000,
+    "amountFormatted": "$155,000",
+    "closeDate": "2026-07-15",
+    "probabilityPct": 45,
+    "summary": "Commercial risk tied to product gaps, sponsor change, and shrinking adoption."
+  },
+  {
+    "opportunityId": "opp-ironcore-manufacturing-renewal",
+    "accountId": "ironcore-manufacturing",
+    "type": "Renewal",
+    "stage": "On Track",
+    "amount": 335000,
+    "amountFormatted": "$335,000",
+    "closeDate": "2026-12-01",
+    "probabilityPct": 92,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-lumen-energy-renewal",
+    "accountId": "lumen-energy",
+    "type": "Renewal",
+    "stage": "Watch",
+    "amount": 370000,
+    "amountFormatted": "$370,000",
+    "closeDate": "2026-08-31",
+    "probabilityPct": 70,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-cedar-schools-renewal",
+    "accountId": "cedar-schools",
+    "type": "Renewal",
+    "stage": "At Risk",
+    "amount": 125000,
+    "amountFormatted": "$125,000",
+    "closeDate": "2026-06-15",
+    "probabilityPct": 45,
+    "summary": "Commercial risk tied to product gaps, sponsor change, and shrinking adoption."
+  },
+  {
+    "opportunityId": "opp-nimbus-insurance-renewal",
+    "accountId": "nimbus-insurance",
+    "type": "Renewal",
+    "stage": "On Track",
+    "amount": 405000,
+    "amountFormatted": "$405,000",
+    "closeDate": "2027-01-20",
+    "probabilityPct": 92,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-freshfork-market-renewal",
+    "accountId": "freshfork-market",
+    "type": "Renewal",
+    "stage": "On Track",
+    "amount": 145000,
+    "amountFormatted": "$145,000",
+    "closeDate": "2026-09-10",
+    "probabilityPct": 92,
+    "summary": "Expected flat-to-up renewal."
+  },
+  {
+    "opportunityId": "opp-polaris-telecom-renewal",
+    "accountId": "polaris-telecom",
+    "type": "Renewal",
+    "stage": "Expansion Likely",
+    "amount": 440000,
+    "amountFormatted": "$440,000",
+    "closeDate": "2026-11-30",
+    "probabilityPct": 92,
+    "summary": "Renewal with credible expansion path if roadmap asks stay on track."
+  },
+  {
+    "opportunityId": "opp-vanta-freight-renewal",
+    "accountId": "vanta-freight",
+    "type": "Renewal",
+    "stage": "At Risk",
+    "amount": 195000,
+    "amountFormatted": "$195,000",
+    "closeDate": "2026-07-10",
+    "probabilityPct": 45,
+    "summary": "Commercial risk tied to product gaps, sponsor change, and shrinking adoption."
+  },
+  {
+    "opportunityId": "opp-oakwell-capital-renewal",
+    "accountId": "oakwell-capital",
+    "type": "Renewal",
+    "stage": "On Track",
+    "amount": 320000,
+    "amountFormatted": "$320,000",
+    "closeDate": "2026-12-15",
+    "probabilityPct": 92,
+    "summary": "Expected flat-to-up renewal."
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "accountId": "solstice-media",
+  "name": "Solstice Media",
+  "segment": "Mid-Market",
+  "industry": "Media",
+  "arr": 185000,
+  "arrFormatted": "$185,000",
+  "renewalDate": "2026-07-31",
+  "renewalStage": "Watch",
+  "riskLevel": "medium",
+  "healthScore": 64,
+  "healthDelta": -6,
+  "productLikes": [
+    "Campaign handoff visibility",
+    "Cross-team accountability"
+  ],
+  "painPoints": [
+    "Mobile workflow approvals are clunky",
+    "Needs easier dashboard exports",
+    "Asks for lighter-weight automations"
+  ],
+  "featureThemes": [
+    "Mobile Experience",
+    "Reporting And Exports",
+    "Workflow Automation"
+  ],
+  "ownerId": "rep-isaac-romero",
+  "csmId": "csm-jordan-kim",
+  "supportOpenTickets": 2,
+  "recentCallCount": 8,
+  "usageTrend": [
+    76,
+    74,
+    73,
+    71,
+    69,
+    66
+  ],
+  "riskReasons": [
+    "Call volume is high and sentiment is mixed",
+    "Adoption remains concentrated in one team"
+  ],
+  "notes": "Support-heavy, noisy account that is not yet a full churn case."
+}

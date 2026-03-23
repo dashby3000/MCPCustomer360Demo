@@ -1,0 +1,38 @@
+{
+  "accountId": "oakwell-capital",
+  "name": "Oakwell Capital",
+  "segment": "Enterprise",
+  "industry": "Private Equity",
+  "arr": 320000,
+  "arrFormatted": "$320,000",
+  "renewalDate": "2026-12-15",
+  "renewalStage": "On Track",
+  "riskLevel": "low",
+  "healthScore": 90,
+  "healthDelta": 5,
+  "productLikes": [
+    "Executive visibility into portfolio operations",
+    "Strong reporting for portfolio reviews",
+    "Fast time to value"
+  ],
+  "painPoints": [
+    "Would like more flexible board-ready export formatting"
+  ],
+  "featureThemes": [
+    "Reporting And Exports"
+  ],
+  "ownerId": "rep-maya-chen",
+  "csmId": "csm-olivia-grant",
+  "supportOpenTickets": 2,
+  "recentCallCount": 4,
+  "usageTrend": [
+    88,
+    88,
+    89,
+    90,
+    91,
+    92
+  ],
+  "riskReasons": [],
+  "notes": "High-value referenceable customer with strong executive use case."
+}

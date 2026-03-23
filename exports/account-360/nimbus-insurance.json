@@ -1,0 +1,38 @@
+{
+  "accountId": "nimbus-insurance",
+  "name": "Nimbus Insurance",
+  "segment": "Enterprise",
+  "industry": "Insurance",
+  "arr": 405000,
+  "arrFormatted": "$405,000",
+  "renewalDate": "2027-01-20",
+  "renewalStage": "On Track",
+  "riskLevel": "low",
+  "healthScore": 87,
+  "healthDelta": 4,
+  "productLikes": [
+    "Excellent visibility across claims teams",
+    "Clear audit trails",
+    "Stable performance"
+  ],
+  "painPoints": [
+    "Would like deeper export templates"
+  ],
+  "featureThemes": [
+    "Reporting And Exports"
+  ],
+  "ownerId": "rep-elena-torres",
+  "csmId": "csm-olivia-grant",
+  "supportOpenTickets": 2,
+  "recentCallCount": 4,
+  "usageTrend": [
+    84,
+    85,
+    85,
+    86,
+    87,
+    88
+  ],
+  "riskReasons": [],
+  "notes": "Healthy regulated-industry lighthouse account."
+}

@@ -1,0 +1,2472 @@
+[
+  {
+    "ticketId": "zd-alturas-health-001",
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Alturas Health requested help or reported friction related to: Would like deeper export customization.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-alturas-health-002",
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "Alturas Health requested help or reported friction related to: Would like deeper export customization.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-alturas-health-003",
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Alturas Health requested help or reported friction related to: Would like deeper export customization.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-alturas-health-004",
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "Alturas Health requested help or reported friction related to: Would like deeper export customization.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-alturas-health-005",
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Alturas Health requested help or reported friction related to: Would like deeper export customization.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-001",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Wants mobile approvals to feel faster.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-002",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "rbac_permissions"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Needs more flexible role permissions.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-003",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Wants mobile approvals to feel faster.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-004",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "rbac_permissions"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Needs more flexible role permissions.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-005",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Wants mobile approvals to feel faster.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-006",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "rbac_permissions"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Needs more flexible role permissions.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-northstar-retail-007",
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "Northstar Retail Group requested help or reported friction related to: Wants mobile approvals to feel faster.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-bluepeak-logistics-001",
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "BluePeak Logistics requested help or reported friction related to: Would like more native carrier integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-bluepeak-logistics-002",
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "BluePeak Logistics requested help or reported friction related to: Would like more native carrier integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-bluepeak-logistics-003",
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "BluePeak Logistics requested help or reported friction related to: Would like more native carrier integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-bluepeak-logistics-004",
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "BluePeak Logistics requested help or reported friction related to: Would like more native carrier integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-bluepeak-logistics-005",
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "BluePeak Logistics requested help or reported friction related to: Would like more native carrier integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-bluepeak-logistics-006",
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "BluePeak Logistics requested help or reported friction related to: Would like more native carrier integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-redwood-bank-001",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 18,
+    "resolutionHours": 15,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "audit_logs"
+    ],
+    "summary": "Redwood Bank escalated a high-visibility issue tied to: Needs deeper audit logs.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-002",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 21,
+    "resolutionHours": 19,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Redwood Bank escalated a high-visibility issue tied to: Role permissions are too coarse.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-003",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev1",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 24,
+    "resolutionHours": 23,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Redwood Bank escalated a high-visibility issue tied to: Reporting exports are manual.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-004",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 54,
+    "resolutionHours": 31,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "audit_logs"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Needs deeper audit logs.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-005",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Role permissions are too coarse.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-006",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Reporting exports are manual.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-007",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "audit_logs"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Needs deeper audit logs.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-008",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Role permissions are too coarse.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-009",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Reporting exports are manual.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-010",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 133,
+    "resolutionHours": 54,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "audit_logs"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Needs deeper audit logs.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-011",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 138,
+    "resolutionHours": 56,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Role permissions are too coarse.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-012",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 143,
+    "resolutionHours": 58,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Reporting exports are manual.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-013",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 148,
+    "resolutionHours": 60,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "audit_logs"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Needs deeper audit logs.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-redwood-bank-014",
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 153,
+    "resolutionHours": 62,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Redwood Bank requested help or reported friction related to: Role permissions are too coarse.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-solstice-media-001",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev2",
+    "status": "Open",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 42,
+    "resolutionHours": 22,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Mobile workflow approvals are clunky.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-002",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev2",
+    "status": "Open",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 46,
+    "resolutionHours": 25,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "reporting_exports"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Needs easier dashboard exports.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-003",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 50,
+    "resolutionHours": 28,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "workflow_automation"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Asks for lighter-weight automations.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-004",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 54,
+    "resolutionHours": 31,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Mobile workflow approvals are clunky.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-005",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "reporting_exports"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Needs easier dashboard exports.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-006",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "workflow_automation"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Asks for lighter-weight automations.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-007",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Mobile workflow approvals are clunky.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-008",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "reporting_exports"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Needs easier dashboard exports.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-009",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "workflow_automation"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Asks for lighter-weight automations.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-010",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 133,
+    "resolutionHours": 54,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Mobile workflow approvals are clunky.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-solstice-media-011",
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 138,
+    "resolutionHours": 56,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "reporting_exports"
+    ],
+    "summary": "Solstice Media requested help or reported friction related to: Needs easier dashboard exports.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-meridian-bio-001",
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "audit_logs"
+    ],
+    "summary": "Meridian BioLabs requested help or reported friction related to: Would like stronger compliance logging.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-meridian-bio-002",
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "audit_logs"
+    ],
+    "summary": "Meridian BioLabs requested help or reported friction related to: Would like stronger compliance logging.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-meridian-bio-003",
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "audit_logs"
+    ],
+    "summary": "Meridian BioLabs requested help or reported friction related to: Would like stronger compliance logging.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-meridian-bio-004",
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "subject": "Audit Logs request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "audit_logs"
+    ],
+    "summary": "Meridian BioLabs requested help or reported friction related to: Would like stronger compliance logging.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-001",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 18,
+    "resolutionHours": 15,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels escalated a high-visibility issue tied to: Needs better mobile experience for managers on the floor.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-002",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 21,
+    "resolutionHours": 19,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Harbor Hotels escalated a high-visibility issue tied to: Asks for easier permissions for regional leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-003",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev1",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 24,
+    "resolutionHours": 23,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels escalated a high-visibility issue tied to: Complains that rollout stalled after champion left.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-004",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 54,
+    "resolutionHours": 31,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Needs better mobile experience for managers on the floor.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-005",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Asks for easier permissions for regional leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-006",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Complains that rollout stalled after champion left.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-007",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Needs better mobile experience for managers on the floor.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-008",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Asks for easier permissions for regional leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-009",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Complains that rollout stalled after champion left.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-010",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 133,
+    "resolutionHours": 54,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Needs better mobile experience for managers on the floor.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-011",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 138,
+    "resolutionHours": 56,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Asks for easier permissions for regional leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-012",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 143,
+    "resolutionHours": 58,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Complains that rollout stalled after champion left.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-harbor-hotels-013",
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 148,
+    "resolutionHours": 60,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "mobile_experience"
+    ],
+    "summary": "Harbor Hotels requested help or reported friction related to: Needs better mobile experience for managers on the floor.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-001",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Wants more shop-floor integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-002",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Would like no-code automations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-003",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Wants more shop-floor integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-004",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Would like no-code automations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-005",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Wants more shop-floor integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-006",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Would like no-code automations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-ironcore-manufacturing-007",
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "IronCore Manufacturing requested help or reported friction related to: Wants more shop-floor integrations.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-001",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Integrations request or issue",
+    "severity": "sev2",
+    "status": "Open",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 42,
+    "resolutionHours": 22,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "integrations"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Integration backlog is slowing rollout.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-002",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev2",
+    "status": "Open",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 46,
+    "resolutionHours": 25,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Asks for offline and mobile workflow improvements.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-003",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Integrations request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 50,
+    "resolutionHours": 28,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "integrations"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Integration backlog is slowing rollout.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-004",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 54,
+    "resolutionHours": 31,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Asks for offline and mobile workflow improvements.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-005",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "integrations"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Integration backlog is slowing rollout.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-006",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Asks for offline and mobile workflow improvements.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-007",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "integrations"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Integration backlog is slowing rollout.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-008",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Asks for offline and mobile workflow improvements.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-009",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "integrations"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Integration backlog is slowing rollout.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-lumen-energy-010",
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 133,
+    "resolutionHours": 54,
+    "tags": [
+      "customer-360-demo",
+      "medium",
+      "mobile_experience"
+    ],
+    "summary": "Lumen Energy Services requested help or reported friction related to: Asks for offline and mobile workflow improvements.",
+    "customerTone": "High-touch but constructive"
+  },
+  {
+    "ticketId": "zd-cedar-schools-001",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 18,
+    "resolutionHours": 15,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Cedar Public Schools escalated a high-visibility issue tied to: District leaders want easier reporting exports.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-002",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 21,
+    "resolutionHours": 19,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Cedar Public Schools escalated a high-visibility issue tied to: Admins struggle with permissions by school.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-003",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev1",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 24,
+    "resolutionHours": 23,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Cedar Public Schools escalated a high-visibility issue tied to: Automation setup has stalled.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-004",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 54,
+    "resolutionHours": 31,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: District leaders want easier reporting exports.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-005",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: Admins struggle with permissions by school.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-006",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: Automation setup has stalled.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-007",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: District leaders want easier reporting exports.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-008",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: Admins struggle with permissions by school.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-009",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: Automation setup has stalled.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-010",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 133,
+    "resolutionHours": 54,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: District leaders want easier reporting exports.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-011",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Rbac Permissions request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 138,
+    "resolutionHours": 56,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "rbac_permissions"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: Admins struggle with permissions by school.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-cedar-schools-012",
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 143,
+    "resolutionHours": 58,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Cedar Public Schools requested help or reported friction related to: Automation setup has stalled.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-nimbus-insurance-001",
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Nimbus Insurance requested help or reported friction related to: Would like deeper export templates.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-nimbus-insurance-002",
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Nimbus Insurance requested help or reported friction related to: Would like deeper export templates.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-nimbus-insurance-003",
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Nimbus Insurance requested help or reported friction related to: Would like deeper export templates.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-nimbus-insurance-004",
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Nimbus Insurance requested help or reported friction related to: Would like deeper export templates.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-nimbus-insurance-005",
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Nimbus Insurance requested help or reported friction related to: Would like deeper export templates.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-001",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-002",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-003",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-004",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-005",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-006",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-007",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-freshfork-market-008",
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "subject": "Mobile Experience request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "mobile_experience"
+    ],
+    "summary": "FreshFork Market requested help or reported friction related to: Wants better mobile speed in low-connectivity environments.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-001",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Requests more integration coverage.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-002",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Interested in richer workflow automation.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-003",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Requests more integration coverage.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-004",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Interested in richer workflow automation.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-005",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Requests more integration coverage.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-006",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Interested in richer workflow automation.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-007",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Requests more integration coverage.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-008",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "workflow_automation"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Interested in richer workflow automation.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-polaris-telecom-009",
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "integrations"
+    ],
+    "summary": "Polaris Telecom requested help or reported friction related to: Requests more integration coverage.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-vanta-freight-001",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Integrations request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 18,
+    "resolutionHours": 15,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "integrations"
+    ],
+    "summary": "Vanta Freight escalated a high-visibility issue tied to: Carrier integration problems are creating distrust.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-002",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 21,
+    "resolutionHours": 19,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Vanta Freight escalated a high-visibility issue tied to: Automation rules feel too brittle.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-003",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev1",
+    "status": "Open",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 24,
+    "resolutionHours": 23,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Vanta Freight escalated a high-visibility issue tied to: Customers ask for better exports for operations leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-004",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Integrations request or issue",
+    "severity": "sev2",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 54,
+    "resolutionHours": 31,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "integrations"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Carrier integration problems are creating distrust.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-005",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 108,
+    "resolutionHours": 44,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Automation rules feel too brittle.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-006",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 113,
+    "resolutionHours": 46,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Customers ask for better exports for operations leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-007",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-19",
+    "firstResponseMinutes": 118,
+    "resolutionHours": 48,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "integrations"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Carrier integration problems are creating distrust.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-008",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-22",
+    "firstResponseMinutes": 123,
+    "resolutionHours": 50,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Automation rules feel too brittle.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-009",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-03-25",
+    "firstResponseMinutes": 128,
+    "resolutionHours": 52,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Customers ask for better exports for operations leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-010",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 133,
+    "resolutionHours": 54,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "integrations"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Carrier integration problems are creating distrust.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-011",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 138,
+    "resolutionHours": 56,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Automation rules feel too brittle.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-012",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-ava-nguyen",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 143,
+    "resolutionHours": 58,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Customers ask for better exports for operations leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-013",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Integrations request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-daniel-cho",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 148,
+    "resolutionHours": 60,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "integrations"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Carrier integration problems are creating distrust.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-014",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Workflow Automation request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-02-13",
+    "firstResponseMinutes": 153,
+    "resolutionHours": 62,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "workflow_automation"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Automation rules feel too brittle.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-vanta-freight-015",
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-03-16",
+    "firstResponseMinutes": 158,
+    "resolutionHours": 64,
+    "tags": [
+      "customer-360-demo",
+      "high",
+      "reporting_exports"
+    ],
+    "summary": "Vanta Freight requested help or reported friction related to: Customers ask for better exports for operations leaders.",
+    "customerTone": "Frustrated but still engaged"
+  },
+  {
+    "ticketId": "zd-oakwell-capital-001",
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-rachel-singh",
+    "createdAt": "2026-01-01",
+    "firstResponseMinutes": 88,
+    "resolutionHours": 36,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Oakwell Capital requested help or reported friction related to: Would like more flexible board-ready export formatting.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-oakwell-capital-002",
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Open",
+    "assigneeId": "sup-luis-martinez",
+    "createdAt": "2026-02-04",
+    "firstResponseMinutes": 93,
+    "resolutionHours": 38,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Oakwell Capital requested help or reported friction related to: Would like more flexible board-ready export formatting.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-oakwell-capital-003",
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-tessa-morgan",
+    "createdAt": "2026-03-07",
+    "firstResponseMinutes": 98,
+    "resolutionHours": 40,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Oakwell Capital requested help or reported friction related to: Would like more flexible board-ready export formatting.",
+    "customerTone": "Generally positive"
+  },
+  {
+    "ticketId": "zd-oakwell-capital-004",
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "subject": "Reporting Exports request or issue",
+    "severity": "sev3",
+    "status": "Closed",
+    "assigneeId": "sup-omar-haddad",
+    "createdAt": "2026-01-10",
+    "firstResponseMinutes": 103,
+    "resolutionHours": 42,
+    "tags": [
+      "customer-360-demo",
+      "low",
+      "reporting_exports"
+    ],
+    "summary": "Oakwell Capital requested help or reported friction related to: Would like more flexible board-ready export formatting.",
+    "customerTone": "Generally positive"
+  }
+]

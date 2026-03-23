@@ -1,0 +1,40 @@
+{
+  "accountId": "ironcore-manufacturing",
+  "name": "IronCore Manufacturing",
+  "segment": "Enterprise",
+  "industry": "Manufacturing",
+  "arr": 335000,
+  "arrFormatted": "$335,000",
+  "renewalDate": "2026-12-01",
+  "renewalStage": "On Track",
+  "riskLevel": "low",
+  "healthScore": 83,
+  "healthDelta": 3,
+  "productLikes": [
+    "Plant-level workflow standardization",
+    "Good issue visibility",
+    "Strong change-management support"
+  ],
+  "painPoints": [
+    "Wants more shop-floor integrations",
+    "Would like no-code automations"
+  ],
+  "featureThemes": [
+    "Integrations",
+    "Workflow Automation"
+  ],
+  "ownerId": "rep-priya-shah",
+  "csmId": "csm-olivia-grant",
+  "supportOpenTickets": 2,
+  "recentCallCount": 5,
+  "usageTrend": [
+    78,
+    79,
+    80,
+    81,
+    82,
+    84
+  ],
+  "riskReasons": [],
+  "notes": "Operationally mature customer with clear automation appetite."
+}

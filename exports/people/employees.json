@@ -1,0 +1,363 @@
+[
+  {
+    "id": "rep-maya-chen",
+    "name": "Maya Chen",
+    "role": "Account Executive",
+    "department": "Sales",
+    "manager": "Lauren Bishop",
+    "tenureMonths": 42,
+    "metrics": {
+      "attainmentPct": 128,
+      "avgFollowupHours": 3.8,
+      "multiThreadScore": 95,
+      "forecastAccuracyPct": 94
+    },
+    "habits": [
+      "Sends recap notes within the same day",
+      "Maps two to four stakeholders before mutual close planning",
+      "Brings product specialists into technical calls early"
+    ],
+    "differentiators": [
+      "Keeps commercial asks tied to business outcomes",
+      "Closes meetings with explicit owners and dates",
+      "Surfaces risk before it becomes a leadership surprise"
+    ]
+  },
+  {
+    "id": "rep-priya-shah",
+    "name": "Priya Shah",
+    "role": "Account Executive",
+    "department": "Sales",
+    "manager": "Lauren Bishop",
+    "tenureMonths": 36,
+    "metrics": {
+      "attainmentPct": 121,
+      "avgFollowupHours": 5.2,
+      "multiThreadScore": 90,
+      "forecastAccuracyPct": 89
+    },
+    "habits": [
+      "Frames every demo around time-to-value",
+      "Uses customer examples to create urgency",
+      "Works closely with CSMs before renewal conversations"
+    ],
+    "differentiators": [
+      "Expands accounts by finding adjacent workflow pain",
+      "Asks more change-management questions than most reps",
+      "Keeps next steps unusually concrete"
+    ]
+  },
+  {
+    "id": "rep-elena-torres",
+    "name": "Elena Torres",
+    "role": "Account Executive",
+    "department": "Sales",
+    "manager": "Lauren Bishop",
+    "tenureMonths": 30,
+    "metrics": {
+      "attainmentPct": 112,
+      "avgFollowupHours": 6.1,
+      "multiThreadScore": 87,
+      "forecastAccuracyPct": 86
+    },
+    "habits": [
+      "Explains technical tradeoffs clearly",
+      "Handles procurement friction with detailed prep",
+      "Brings implementation timelines into deal discussions"
+    ],
+    "differentiators": [
+      "Builds trust with operations-heavy buyers",
+      "Is especially strong with regulated industries"
+    ]
+  },
+  {
+    "id": "rep-isaac-romero",
+    "name": "Isaac Romero",
+    "role": "Account Executive",
+    "department": "Sales",
+    "manager": "Lauren Bishop",
+    "tenureMonths": 28,
+    "metrics": {
+      "attainmentPct": 97,
+      "avgFollowupHours": 9.4,
+      "multiThreadScore": 76,
+      "forecastAccuracyPct": 77
+    },
+    "habits": [
+      "Creates strong initial rapport",
+      "Leans on product demos more than discovery depth",
+      "Needs support tightening forecast discipline"
+    ],
+    "differentiators": [
+      "Gets buyers comfortable quickly",
+      "Performs better when paired with a strong CSM"
+    ]
+  },
+  {
+    "id": "rep-ben-foster",
+    "name": "Ben Foster",
+    "role": "Account Executive",
+    "department": "Sales",
+    "manager": "Lauren Bishop",
+    "tenureMonths": 18,
+    "metrics": {
+      "attainmentPct": 91,
+      "avgFollowupHours": 12.6,
+      "multiThreadScore": 69,
+      "forecastAccuracyPct": 72
+    },
+    "habits": [
+      "Connects well with single-threaded champions",
+      "Lets calls drift before locking next steps",
+      "Benefits from more structured deal reviews"
+    ],
+    "differentiators": [
+      "Relationship-first seller",
+      "Lower operational rigor than top peers"
+    ]
+  },
+  {
+    "id": "rep-nolan-brooks",
+    "name": "Nolan Brooks",
+    "role": "Account Executive",
+    "department": "Sales",
+    "manager": "Lauren Bishop",
+    "tenureMonths": 16,
+    "metrics": {
+      "attainmentPct": 84,
+      "avgFollowupHours": 16.8,
+      "multiThreadScore": 62,
+      "forecastAccuracyPct": 68
+    },
+    "habits": [
+      "Runs energetic demos",
+      "Often leaves decision criteria implicit",
+      "Escalates late when accounts wobble"
+    ],
+    "differentiators": [
+      "Good front-of-room energy",
+      "Weakest renewal coordination in the group"
+    ]
+  },
+  {
+    "id": "csm-olivia-grant",
+    "name": "Olivia Grant",
+    "role": "Customer Success Manager",
+    "department": "Customer Success",
+    "manager": "Adrian Cole",
+    "tenureMonths": 40,
+    "metrics": {
+      "grrPct": 96,
+      "nrrPct": 118,
+      "qbrCoveragePct": 100,
+      "timeToSuccessPlanDays": 10
+    },
+    "habits": [
+      "Builds success plans early and revisits them monthly",
+      "Threads executive sponsors into business reviews",
+      "Partners tightly with support after high-severity incidents"
+    ],
+    "differentiators": [
+      "Best at turning adoption work into expansion momentum",
+      "Most disciplined QBR operator on the team"
+    ]
+  },
+  {
+    "id": "csm-serena-patel",
+    "name": "Serena Patel",
+    "role": "Customer Success Manager",
+    "department": "Customer Success",
+    "manager": "Adrian Cole",
+    "tenureMonths": 33,
+    "metrics": {
+      "grrPct": 95,
+      "nrrPct": 111,
+      "qbrCoveragePct": 92,
+      "timeToSuccessPlanDays": 12
+    },
+    "habits": [
+      "Strong at change management and rollout planning",
+      "Uses product usage snapshots in almost every review",
+      "Summarizes open blockers crisply"
+    ],
+    "differentiators": [
+      "Very good at recovering shaky implementations",
+      "Creates unusually clear adoption goals"
+    ]
+  },
+  {
+    "id": "csm-jordan-kim",
+    "name": "Jordan Kim",
+    "role": "Customer Success Manager",
+    "department": "Customer Success",
+    "manager": "Adrian Cole",
+    "tenureMonths": 24,
+    "metrics": {
+      "grrPct": 90,
+      "nrrPct": 103,
+      "qbrCoveragePct": 81,
+      "timeToSuccessPlanDays": 18
+    },
+    "habits": [
+      "Highly responsive in reactive situations",
+      "Needs stronger executive alignment",
+      "Works best with highly engaged admins"
+    ],
+    "differentiators": [
+      "Steady operator",
+      "Less strategic than top peers"
+    ]
+  },
+  {
+    "id": "csm-marcus-lee",
+    "name": "Marcus Lee",
+    "role": "Customer Success Manager",
+    "department": "Customer Success",
+    "manager": "Adrian Cole",
+    "tenureMonths": 20,
+    "metrics": {
+      "grrPct": 87,
+      "nrrPct": 97,
+      "qbrCoveragePct": 63,
+      "timeToSuccessPlanDays": 26
+    },
+    "habits": [
+      "Gets on calls quickly during escalations",
+      "Relies on heroic effort over structured plans",
+      "Often responds after a signal has already worsened"
+    ],
+    "differentiators": [
+      "Good under pressure",
+      "Weakest proactive account management discipline"
+    ]
+  },
+  {
+    "id": "sup-ava-nguyen",
+    "name": "Ava Nguyen",
+    "role": "Support Engineer",
+    "department": "Support",
+    "manager": "Mei Thompson",
+    "tenureMonths": 38,
+    "metrics": {
+      "csatPct": 98,
+      "avgFirstResponseMinutes": 21,
+      "avgResolutionHours": 10,
+      "escalationRatePct": 8
+    },
+    "habits": [
+      "Documents root causes cleanly",
+      "Flags product gaps with reproducible detail",
+      "Closes the loop with CSMs on customer sentiment"
+    ],
+    "differentiators": [
+      "Best blend of speed and root-cause quality"
+    ]
+  },
+  {
+    "id": "sup-daniel-cho",
+    "name": "Daniel Cho",
+    "role": "Support Engineer",
+    "department": "Support",
+    "manager": "Mei Thompson",
+    "tenureMonths": 31,
+    "metrics": {
+      "csatPct": 95,
+      "avgFirstResponseMinutes": 24,
+      "avgResolutionHours": 13,
+      "escalationRatePct": 12
+    },
+    "habits": [
+      "Strong on integrations and API issues",
+      "Great at customer education",
+      "Hands issues to engineering with high signal"
+    ],
+    "differentiators": [
+      "Most trusted with technical accounts"
+    ]
+  },
+  {
+    "id": "sup-rachel-singh",
+    "name": "Rachel Singh",
+    "role": "Support Engineer",
+    "department": "Support",
+    "manager": "Mei Thompson",
+    "tenureMonths": 27,
+    "metrics": {
+      "csatPct": 96,
+      "avgFirstResponseMinutes": 28,
+      "avgResolutionHours": 15,
+      "escalationRatePct": 11
+    },
+    "habits": [
+      "Very strong empathy in escalations",
+      "Translates technical issues for non-technical users",
+      "Good follow-through after incidents"
+    ],
+    "differentiators": [
+      "Best written tone on the team"
+    ]
+  },
+  {
+    "id": "sup-luis-martinez",
+    "name": "Luis Martinez",
+    "role": "Support Engineer",
+    "department": "Support",
+    "manager": "Mei Thompson",
+    "tenureMonths": 22,
+    "metrics": {
+      "csatPct": 92,
+      "avgFirstResponseMinutes": 36,
+      "avgResolutionHours": 18,
+      "escalationRatePct": 16
+    },
+    "habits": [
+      "Reliable on routine cases",
+      "Needs clearer handoffs on complex incidents"
+    ],
+    "differentiators": [
+      "Solid generalist"
+    ]
+  },
+  {
+    "id": "sup-tessa-morgan",
+    "name": "Tessa Morgan",
+    "role": "Support Engineer",
+    "department": "Support",
+    "manager": "Mei Thompson",
+    "tenureMonths": 17,
+    "metrics": {
+      "csatPct": 90,
+      "avgFirstResponseMinutes": 44,
+      "avgResolutionHours": 24,
+      "escalationRatePct": 19
+    },
+    "habits": [
+      "Thorough but slower than peers",
+      "Prefers deep investigation over quick containment"
+    ],
+    "differentiators": [
+      "Useful for complex reproductions, not fastest at customer comms"
+    ]
+  },
+  {
+    "id": "sup-omar-haddad",
+    "name": "Omar Haddad",
+    "role": "Support Engineer",
+    "department": "Support",
+    "manager": "Mei Thompson",
+    "tenureMonths": 14,
+    "metrics": {
+      "csatPct": 88,
+      "avgFirstResponseMinutes": 49,
+      "avgResolutionHours": 28,
+      "escalationRatePct": 23
+    },
+    "habits": [
+      "Escalates quickly",
+      "Needs stronger expectation setting with frustrated customers"
+    ],
+    "differentiators": [
+      "Handles volume, but not yet polished in executive escalations"
+    ]
+  }
+]

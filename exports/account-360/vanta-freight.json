@@ -1,0 +1,44 @@
+{
+  "accountId": "vanta-freight",
+  "name": "Vanta Freight",
+  "segment": "Mid-Market",
+  "industry": "Freight",
+  "arr": 195000,
+  "arrFormatted": "$195,000",
+  "renewalDate": "2026-07-10",
+  "renewalStage": "At Risk",
+  "riskLevel": "high",
+  "healthScore": 44,
+  "healthDelta": -13,
+  "productLikes": [
+    "Dispatch team likes the visibility when integrations hold"
+  ],
+  "painPoints": [
+    "Carrier integration problems are creating distrust",
+    "Automation rules feel too brittle",
+    "Customers ask for better exports for operations leaders"
+  ],
+  "featureThemes": [
+    "Integrations",
+    "Workflow Automation",
+    "Reporting And Exports"
+  ],
+  "ownerId": "rep-nolan-brooks",
+  "csmId": "csm-marcus-lee",
+  "supportOpenTickets": 3,
+  "recentCallCount": 10,
+  "usageTrend": [
+    69,
+    66,
+    63,
+    60,
+    56,
+    51
+  ],
+  "riskReasons": [
+    "High support load and falling usage",
+    "Renewal is approaching with little executive alignment",
+    "Integration complaints show up in every source"
+  ],
+  "notes": "At-risk account with noisy support and weak account management coverage."
+}

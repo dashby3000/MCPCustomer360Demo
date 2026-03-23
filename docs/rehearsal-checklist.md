@@ -5,9 +5,9 @@ Use this before a live demo.
 ## Setup
 
 - Run `npm run smoke`
-- Keep [demo-playbook.md](/Users/dashby/Workarea/AmaroDemoData/docs/demo-playbook.md) open
-- Keep [golden-answers.md](/Users/dashby/Workarea/AmaroDemoData/docs/golden-answers.md) open
-- Keep [demo-questions.txt](/Users/dashby/Workarea/AmaroDemoData/docs/demo-questions.txt) ready to paste
+- Keep [demo-playbook.md](demo-playbook.md) open
+- Keep [golden-answers.md](golden-answers.md) open
+- Keep [demo-questions.txt](demo-questions.txt) ready to paste
 - Make sure `customer360` is enabled in the MCP client along with the source MCPs
 
 ## Best live sequence

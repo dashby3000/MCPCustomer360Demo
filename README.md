@@ -28,7 +28,7 @@ The dataset is designed to answer questions like:
 
 ## Quick Start
 
-From `/Users/dashby/Workarea/AmaroDemoData`:
+From the repo root:
 
 ```bash
 npm install
@@ -40,7 +40,7 @@ npm run smoke:http
 What those do:
 
 - `npm run export:data`
-  - writes the synthetic dataset into `/Users/dashby/Workarea/AmaroDemoData/exports`
+  - writes the synthetic dataset into [`exports/`](exports/)
 - `npm run smoke`
   - verifies all MCPs over `stdio`
 - `npm run smoke:http`
@@ -91,7 +91,7 @@ These are the best accounts to use in live demos:
 - `Northstar Retail Group`
   - best for roadmap and expansion storytelling
 
-See [account-roster.md](/Users/dashby/Workarea/AmaroDemoData/docs/account-roster.md) for the full synthetic portfolio design.
+See [account-roster.md](docs/account-roster.md) for the full synthetic portfolio design.
 
 ## Running The MCPs
 
@@ -110,7 +110,7 @@ npm run server:people
 npm run server:customer360
 ```
 
-Use [mcp-servers.json](/Users/dashby/Workarea/AmaroDemoData/config/mcp-servers.json) for command-based MCP clients.
+Use [mcp-servers.json](config/mcp-servers.json) for command-based MCP clients.
 
 ### Streamable HTTP
 
@@ -144,54 +144,54 @@ npm run server:http:people
 npm run server:http:customer360
 ```
 
-Use [mcp-servers-streaming.json](/Users/dashby/Workarea/AmaroDemoData/config/mcp-servers-streaming.json) for URL-based MCP clients.
+Use [mcp-servers-streaming.json](config/mcp-servers-streaming.json) for URL-based MCP clients.
 
 ## Exported Data
 
 After `npm run export:data`, inspect:
 
-- [demo-company.json](/Users/dashby/Workarea/AmaroDemoData/exports/master/demo-company.json)
-- [accounts.json](/Users/dashby/Workarea/AmaroDemoData/exports/salesforce/accounts.json)
-- [health-profiles.json](/Users/dashby/Workarea/AmaroDemoData/exports/gainsight/health-profiles.json)
-- [tickets.json](/Users/dashby/Workarea/AmaroDemoData/exports/zendesk/tickets.json)
-- [feature-requests.json](/Users/dashby/Workarea/AmaroDemoData/exports/productboard/feature-requests.json)
-- [calls.json](/Users/dashby/Workarea/AmaroDemoData/exports/gong/calls.json)
-- [transcripts.json](/Users/dashby/Workarea/AmaroDemoData/exports/gong/transcripts.json)
-- [usage-snapshots.json](/Users/dashby/Workarea/AmaroDemoData/exports/usage/usage-snapshots.json)
-- [employees.json](/Users/dashby/Workarea/AmaroDemoData/exports/people/employees.json)
+- [demo-company.json](exports/master/demo-company.json)
+- [accounts.json](exports/salesforce/accounts.json)
+- [health-profiles.json](exports/gainsight/health-profiles.json)
+- [tickets.json](exports/zendesk/tickets.json)
+- [feature-requests.json](exports/productboard/feature-requests.json)
+- [calls.json](exports/gong/calls.json)
+- [transcripts.json](exports/gong/transcripts.json)
+- [usage-snapshots.json](exports/usage/usage-snapshots.json)
+- [employees.json](exports/people/employees.json)
 
 ## Demo Docs
 
 These are the most useful files for rehearsal:
 
-- [demo-playbook.md](/Users/dashby/Workarea/AmaroDemoData/docs/demo-playbook.md)
+- [demo-playbook.md](docs/demo-playbook.md)
   - suggested live-demo prompts and expected answer patterns
-- [demo-questions.txt](/Users/dashby/Workarea/AmaroDemoData/docs/demo-questions.txt)
+- [demo-questions.txt](docs/demo-questions.txt)
   - quick copy/paste questions
-- [golden-answers.md](/Users/dashby/Workarea/AmaroDemoData/docs/golden-answers.md)
+- [golden-answers.md](docs/golden-answers.md)
   - example strong answers for key demo prompts
-- [rehearsal-checklist.md](/Users/dashby/Workarea/AmaroDemoData/docs/rehearsal-checklist.md)
+- [rehearsal-checklist.md](docs/rehearsal-checklist.md)
   - suggested run-of-show and troubleshooting prompts
 
 ## Skills
 
 Example demo skills are included here:
 
-- [churn-risk-investigator.md](/Users/dashby/Workarea/AmaroDemoData/skills/churn-risk-investigator.md)
-- [customer-pattern-finder.md](/Users/dashby/Workarea/AmaroDemoData/skills/customer-pattern-finder.md)
-- [roadmap-builder.md](/Users/dashby/Workarea/AmaroDemoData/skills/roadmap-builder.md)
+- [churn-risk-investigator.md](skills/churn-risk-investigator.md)
+- [customer-pattern-finder.md](skills/customer-pattern-finder.md)
+- [roadmap-builder.md](skills/roadmap-builder.md)
 
 ## Important Source Files
 
-- [demo-company.js](/Users/dashby/Workarea/AmaroDemoData/src/data/demo-company.js)
+- [demo-company.js](src/data/demo-company.js)
   - canonical synthetic company generator
-- [export-data.js](/Users/dashby/Workarea/AmaroDemoData/src/scripts/export-data.js)
+- [export-data.js](src/scripts/export-data.js)
   - writes JSON snapshots
-- [smoke-test.js](/Users/dashby/Workarea/AmaroDemoData/src/scripts/smoke-test.js)
+- [smoke-test.js](src/scripts/smoke-test.js)
   - verifies `stdio` MCPs
-- [smoke-test-http.js](/Users/dashby/Workarea/AmaroDemoData/src/scripts/smoke-test-http.js)
+- [smoke-test-http.js](src/scripts/smoke-test-http.js)
   - verifies Streamable HTTP MCPs
-- [serve-streaming.js](/Users/dashby/Workarea/AmaroDemoData/src/scripts/serve-streaming.js)
+- [serve-streaming.js](src/scripts/serve-streaming.js)
   - combined Streamable HTTP host
 
 ## Suggested Live Demo Path

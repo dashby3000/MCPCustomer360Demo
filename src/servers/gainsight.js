@@ -17,6 +17,7 @@ export function createGainsightServer() {
 
   registerOverviewResource(server, "gainsight", {
     healthProfiles: demoCompany.healthProfiles,
+    healthHistory: demoCompany.healthHistory,
     narratives: demoCompany.demoNarratives
   });
 
@@ -88,6 +89,35 @@ export function createGainsightServer() {
         (account) => `${account.accountName}: health ${account.healthScore}, renewal in ${account.daysToRenewal} days`
       ),
       { accounts }
+    );
+  }
+);
+
+  server.registerTool(
+  "get_health_history",
+  {
+    description: "Return monthly health history for one account or the top N accounts by ARR.",
+    inputSchema: {
+      accountId: z.string().optional(),
+      topNByArr: z.number().int().min(1).max(10).optional()
+    }
+  },
+  async ({ accountId, topNByArr }) => {
+    const selectedAccountIds = accountId
+      ? [accountId]
+      : demoCompany.salesforceAccounts
+          .slice()
+          .sort((left, right) => right.arr - left.arr)
+          .slice(0, topNByArr || 3)
+          .map((account) => account.accountId);
+    const history = demoCompany.healthHistory.filter((point) => selectedAccountIds.includes(point.accountId));
+    return bulletListResult(
+      `Returned ${history.length} health history points:`,
+      history.slice(0, 36).map(
+        (point) =>
+          `${point.accountName} ${point.month}: health ${point.healthScore}, adoption ${point.adoptionScore}, support ${point.supportScore}`
+      ),
+      { history }
     );
   }
 );

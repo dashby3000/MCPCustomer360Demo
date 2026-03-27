@@ -16,7 +16,8 @@ export function createZendeskServer() {
   const server = createServer("zendesk-mcp");
 
   registerOverviewResource(server, "zendesk", {
-    tickets: demoCompany.tickets
+    tickets: demoCompany.tickets,
+    ticketHistory: demoCompany.ticketHistory
   });
 
   for (const account of demoCompany.account360) {
@@ -100,6 +101,29 @@ export function createZendeskServer() {
           `${account.accountName}: ${account.ticketCount} tickets, ${account.openTicketCount} open, ${account.sev1Count} sev1`
       ),
       { accounts: byAccount }
+    );
+  }
+);
+
+  server.registerTool(
+  "get_ticket_history",
+  {
+    description: "Return monthly support ticket history for one account or all accounts.",
+    inputSchema: {
+      accountId: z.string().optional()
+    }
+  },
+  async ({ accountId }) => {
+    const history = demoCompany.ticketHistory.filter((point) => {
+      return accountId ? point.accountId === accountId : true;
+    });
+    return bulletListResult(
+      `Returned ${history.length} ticket history points:`,
+      history.slice(0, 36).map(
+        (point) =>
+          `${point.accountName} ${point.month}: ${point.ticketCount} tickets, ${point.sev1Count} sev1, ${point.openCount} open`
+      ),
+      { history }
     );
   }
 );

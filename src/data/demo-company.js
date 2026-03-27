@@ -1009,8 +1009,27 @@ function daysUntil(date) {
   return Math.round(ms / (1000 * 60 * 60 * 24));
 }
 
+function buildMonthLabels({ startYear, startMonth, count }) {
+  return Array.from({ length: count }, (_, index) => {
+    const monthIndex = startMonth - 1 + index;
+    const year = startYear + Math.floor(monthIndex / 12);
+    const month = (monthIndex % 12) + 1;
+    return `${year}-${String(month).padStart(2, "0")}`;
+  });
+}
+
 function monthLabel(indexFromOldest) {
-  const labels = ["2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"];
+  const labels = buildMonthLabels({ startYear: 2025, startMonth: 10, count: 6 });
+  return labels[indexFromOldest];
+}
+
+function revenueMonthLabel(indexFromOldest) {
+  const labels = buildMonthLabels({ startYear: 2025, startMonth: 4, count: 12 });
+  return labels[indexFromOldest];
+}
+
+function ticketMonthLabel(indexFromOldest) {
+  const labels = buildMonthLabels({ startYear: 2025, startMonth: 10, count: 6 });
   return labels[indexFromOldest];
 }
 
@@ -1136,6 +1155,53 @@ function buildUsageSnapshots(account) {
   }));
 }
 
+function buildRevenueHistory(account) {
+  const latestArr = account.arr;
+  const monthlyDelta = Math.round((account.arr * 0.02) / 12);
+  const baseDelta =
+    account.riskLevel === "high"
+      ? monthlyDelta * -3
+      : account.renewalStage === "Expansion Likely"
+        ? monthlyDelta * 3
+        : account.riskLevel === "medium"
+          ? monthlyDelta * -1
+          : monthlyDelta * 1;
+  const fluctuations = account.usageSeries.flatMap((value, index, series) => {
+    const previous = index === 0 ? value : series[index - 1];
+    return [Math.round((previous - value) / 3), Math.round((value - previous) / 2)];
+  });
+  const multipliers = Array.from({ length: 12 }, (_, index) => 11 - index);
+
+  return multipliers.map((monthsBeforeLatest, index) => {
+    const trendAdjustment = baseDelta * monthsBeforeLatest;
+    const fluctuation = (fluctuations[index] || 0) * 200;
+    const arr = Math.max(60000, latestArr - trendAdjustment - fluctuation);
+    const priorArr = index === 0 ? arr : null;
+    return {
+      accountId: account.id,
+      accountName: account.name,
+      month: revenueMonthLabel(index),
+      arr,
+      arrFormatted: formatCurrency(arr),
+      mrr: Math.round(arr / 12),
+      mrrFormatted: formatCurrency(Math.round(arr / 12)),
+      netChangeFromPriorMonth:
+        priorArr === null ? 0 : arr - priorArr,
+      trend:
+        index === 0
+          ? "baseline"
+          : arr > latestArr
+            ? "down_to_current"
+            : arr < latestArr
+              ? "up_to_current"
+              : "flat_to_current"
+    };
+  }).map((point, index, series) => ({
+    ...point,
+    netChangeFromPriorMonth: index === 0 ? 0 : point.arr - series[index - 1].arr
+  }));
+}
+
 function buildHealthProfile(account) {
   return {
     accountId: account.id,
@@ -1190,6 +1256,59 @@ function buildHealthProfile(account) {
   };
 }
 
+function buildHealthHistory(account) {
+  const latestScore = account.healthScore;
+  const startingScore = Math.max(18, Math.min(97, latestScore - account.healthDelta));
+  const slope = account.healthDelta / 11;
+
+  return Array.from({ length: 12 }, (_, index) => {
+    const rawScore = startingScore + slope * index;
+    const healthScore = Math.max(10, Math.min(99, Math.round(rawScore)));
+    const usageIndex = Math.min(Math.floor(index / 2), account.usageSeries.length - 1);
+    const adoptionScore = Math.max(
+      10,
+      Math.min(
+        99,
+        Math.round(
+          (account.usageSeries[usageIndex] || account.usageSeries.at(-1)) +
+            (account.riskLevel === "low" ? 4 : account.riskLevel === "high" ? -4 : 0)
+        )
+      )
+    );
+    const supportScore = Math.max(
+      10,
+      Math.min(99, Math.round(85 - account.ticketCount * 1.8 - (account.riskLevel === "high" ? 12 : account.riskLevel === "medium" ? 4 : -3) + index))
+    );
+    const sentimentScore = Math.max(
+      10,
+      Math.min(99, Math.round(healthScore + (account.riskLevel === "high" ? -6 : 5)))
+    );
+    const renewalRiskScore = Math.max(
+      1,
+      Math.min(100, Math.round(100 - healthScore + (account.renewalStage === "At Risk" ? 15 : account.renewalStage === "Expansion Likely" ? -10 : 0)))
+    );
+
+    return {
+      accountId: account.id,
+      accountName: account.name,
+      month: revenueMonthLabel(index),
+      healthScore,
+      adoptionScore,
+      supportScore,
+      sentimentScore,
+      renewalRiskScore,
+      trend:
+        index === 0
+          ? "baseline"
+          : healthScore > startingScore
+            ? "improving"
+            : healthScore < startingScore
+              ? "declining"
+              : "flat"
+    };
+  });
+}
+
 function buildTickets(account, indexOffset) {
   const issues = account.painPoints.length ? account.painPoints : ["General configuration guidance"];
   return Array.from({ length: account.ticketCount }, (_, index) => {
@@ -1229,6 +1348,50 @@ function buildTickets(account, indexOffset) {
           : account.ticketCount > 9
             ? "High-touch but constructive"
             : "Generally positive"
+    };
+  });
+}
+
+function buildTicketHistory(account) {
+  const openNow = Math.max(1, Math.floor(account.ticketCount / 5));
+  const baseline = Math.max(1, Math.round(account.ticketCount / 6));
+  const trend =
+    account.riskLevel === "high"
+      ? [0, 1, 1, 2, 2, 3]
+      : account.riskLevel === "medium"
+        ? [1, 1, 0, 0, -1, -1]
+        : [1, 0, 0, -1, -1, -1];
+
+  return Array.from({ length: 6 }, (_, index) => {
+    const ticketCount = Math.max(1, baseline + trend[index]);
+    const sev1Count =
+      account.riskLevel === "high"
+        ? Math.max(0, Math.min(ticketCount, index < 2 ? 1 : 2))
+        : account.riskLevel === "medium"
+          ? Math.max(0, Math.min(ticketCount, index === 0 ? 1 : 0))
+          : 0;
+    const openCount =
+      index === 5
+        ? openNow
+        : Math.max(0, Math.min(ticketCount, Math.round(openNow * ((index + 1) / 6) * 0.6)));
+    const avgResolutionHours = Math.max(
+      8,
+      Math.round(
+        (account.riskLevel === "high" ? 28 : account.riskLevel === "medium" ? 20 : 14) +
+          sev1Count * 6 +
+          ticketCount * 1.2 -
+          index
+      )
+    );
+
+    return {
+      accountId: account.id,
+      accountName: account.name,
+      month: ticketMonthLabel(index),
+      ticketCount,
+      sev1Count,
+      openCount,
+      avgResolutionHours
     };
   });
 }
@@ -1898,6 +2061,9 @@ const tickets = accountBlueprints.flatMap((account, index) => buildTickets(accou
 const featureRequests = accountBlueprints.flatMap(buildFeatureRequests);
 const calls = accountBlueprints.flatMap(buildCalls);
 const usageSnapshots = accountBlueprints.flatMap(buildUsageSnapshots);
+const revenueHistory = accountBlueprints.flatMap(buildRevenueHistory);
+const healthHistory = accountBlueprints.flatMap(buildHealthHistory);
+const ticketHistory = accountBlueprints.flatMap(buildTicketHistory);
 
 const account360 = accountBlueprints.map((account) =>
   buildAccount360(account, {
@@ -1987,7 +2153,10 @@ export const demoCompany = {
   salesforceAccounts,
   opportunities,
   healthProfiles,
+  revenueHistory,
+  healthHistory,
   tickets,
+  ticketHistory,
   featureRequests,
   calls,
   usageSnapshots,

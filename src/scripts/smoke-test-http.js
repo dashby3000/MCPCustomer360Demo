@@ -7,14 +7,14 @@ const port = 4299;
 const baseUrl = `http://127.0.0.1:${port}`;
 
 const servers = [
-  ["salesforce", "/salesforce/mcp", { name: "get_top_accounts_by_arr", arguments: { limit: 2 } }],
-  ["gainsight", "/gainsight/mcp", { name: "identify_churn_risk_accounts", arguments: { limit: 2 } }],
-  ["zendesk", "/zendesk/mcp", { name: "summarize_support_burden", arguments: { limit: 2 } }],
+  ["salesforce", "/salesforce/mcp", { name: "get_revenue_history", arguments: { topNByArr: 2 } }],
+  ["gainsight", "/gainsight/mcp", { name: "get_health_history", arguments: { topNByArr: 2 } }],
+  ["zendesk", "/zendesk/mcp", { name: "get_ticket_history", arguments: {} }],
   ["productboard", "/productboard/mcp", { name: "build_roadmap_hypothesis", arguments: { topN: 2 } }],
   ["gong", "/gong/mcp", { name: "analyze_tangent_patterns", arguments: { audience: "customer" } }],
   ["usage", "/usage/mcp", { name: "low_adoption_accounts", arguments: { limit: 2 } }],
   ["people", "/people/mcp", { name: "explain_top_performer_patterns", arguments: { roleFamily: "sales" } }],
-  ["customer360", "/customer360/mcp", { name: "get_risk_account_summary", arguments: { limit: 2 } }]
+  ["customer360", "/customer360/mcp", { name: "get_account_chart_readiness", arguments: { accountId: "redwood-bank" } }]
 ];
 
 function sleep(ms) {

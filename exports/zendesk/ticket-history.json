@@ -1,0 +1,812 @@
+[
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "alturas-health",
+    "accountName": "Alturas Health",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "northstar-retail",
+    "accountName": "Northstar Retail Group",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "bluepeak-logistics",
+    "accountName": "BluePeak Logistics",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 36
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "month": "2025-11",
+    "ticketCount": 3,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 37
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "month": "2025-12",
+    "ticketCount": 3,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "month": "2026-01",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "month": "2026-02",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 41
+  },
+  {
+    "accountId": "redwood-bank",
+    "accountName": "Redwood Bank",
+    "month": "2026-03",
+    "ticketCount": 5,
+    "sev1Count": 2,
+    "openCount": 2,
+    "avgResolutionHours": 41
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "month": "2025-10",
+    "ticketCount": 3,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 30
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "month": "2025-11",
+    "ticketCount": 3,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 23
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "month": "2025-12",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 20
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "month": "2026-01",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 19
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 17
+  },
+  {
+    "accountId": "solstice-media",
+    "accountName": "Solstice Media",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 2,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "meridian-bio",
+    "accountName": "Meridian BioLabs",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 36
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "month": "2025-11",
+    "ticketCount": 3,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 37
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "month": "2025-12",
+    "ticketCount": 3,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "month": "2026-01",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "month": "2026-02",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 41
+  },
+  {
+    "accountId": "harbor-hotels",
+    "accountName": "Harbor Hotels",
+    "month": "2026-03",
+    "ticketCount": 5,
+    "sev1Count": 2,
+    "openCount": 2,
+    "avgResolutionHours": 41
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "ironcore-manufacturing",
+    "accountName": "IronCore Manufacturing",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "month": "2025-10",
+    "ticketCount": 3,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 30
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "month": "2025-11",
+    "ticketCount": 3,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 23
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "month": "2025-12",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 20
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "month": "2026-01",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 19
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 17
+  },
+  {
+    "accountId": "lumen-energy",
+    "accountName": "Lumen Energy Services",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 2,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 36
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "month": "2025-11",
+    "ticketCount": 3,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 37
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "month": "2025-12",
+    "ticketCount": 3,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "month": "2026-01",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "month": "2026-02",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 41
+  },
+  {
+    "accountId": "cedar-schools",
+    "accountName": "Cedar Public Schools",
+    "month": "2026-03",
+    "ticketCount": 5,
+    "sev1Count": 2,
+    "openCount": 2,
+    "avgResolutionHours": 41
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "nimbus-insurance",
+    "accountName": "Nimbus Insurance",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "freshfork-market",
+    "accountName": "FreshFork Market",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "month": "2025-10",
+    "ticketCount": 3,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 18
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "month": "2025-11",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 15
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "month": "2025-12",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "polaris-telecom",
+    "accountName": "Polaris Telecom",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "month": "2025-10",
+    "ticketCount": 3,
+    "sev1Count": 1,
+    "openCount": 0,
+    "avgResolutionHours": 38
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "month": "2025-11",
+    "ticketCount": 4,
+    "sev1Count": 1,
+    "openCount": 1,
+    "avgResolutionHours": 38
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "month": "2025-12",
+    "ticketCount": 4,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 43
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "month": "2026-01",
+    "ticketCount": 5,
+    "sev1Count": 2,
+    "openCount": 1,
+    "avgResolutionHours": 43
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "month": "2026-02",
+    "ticketCount": 5,
+    "sev1Count": 2,
+    "openCount": 2,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "vanta-freight",
+    "accountName": "Vanta Freight",
+    "month": "2026-03",
+    "ticketCount": 6,
+    "sev1Count": 2,
+    "openCount": 3,
+    "avgResolutionHours": 42
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "month": "2025-10",
+    "ticketCount": 2,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 16
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "month": "2025-11",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 14
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "month": "2025-12",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 13
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "month": "2026-01",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 0,
+    "avgResolutionHours": 12
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "month": "2026-02",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 11
+  },
+  {
+    "accountId": "oakwell-capital",
+    "accountName": "Oakwell Capital",
+    "month": "2026-03",
+    "ticketCount": 1,
+    "sev1Count": 0,
+    "openCount": 1,
+    "avgResolutionHours": 10
+  }
+]

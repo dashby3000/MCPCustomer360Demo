@@ -21,8 +21,11 @@ async function main() {
   await writeJson("master/demo-company.json", demoCompany);
   await writeJson("salesforce/accounts.json", demoCompany.salesforceAccounts);
   await writeJson("salesforce/opportunities.json", demoCompany.opportunities);
+  await writeJson("salesforce/revenue-history.json", demoCompany.revenueHistory);
   await writeJson("gainsight/health-profiles.json", demoCompany.healthProfiles);
+  await writeJson("gainsight/health-history.json", demoCompany.healthHistory);
   await writeJson("zendesk/tickets.json", demoCompany.tickets);
+  await writeJson("zendesk/ticket-history.json", demoCompany.ticketHistory);
   await writeJson("productboard/feature-requests.json", demoCompany.featureRequests);
   await writeJson("productboard/roadmap-summary.json", demoCompany.roadmapSummary);
   await writeJson("gong/calls.json", demoCompany.calls);

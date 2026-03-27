@@ -22,6 +22,9 @@ function buildEvidenceBundle(accountId) {
   const calls = demoCompany.calls.filter((item) => item.accountId === accountId);
   const featureRequests = demoCompany.featureRequests.filter((item) => item.accountId === accountId);
   const usageSnapshots = demoCompany.usageSnapshots.filter((item) => item.accountId === accountId);
+  const revenueHistory = demoCompany.revenueHistory.filter((item) => item.accountId === accountId);
+  const healthHistory = demoCompany.healthHistory.filter((item) => item.accountId === accountId);
+  const ticketHistory = demoCompany.ticketHistory.filter((item) => item.accountId === accountId);
   const latestUsage = usageSnapshots.at(-1);
 
   return {
@@ -35,6 +38,9 @@ function buildEvidenceBundle(accountId) {
     calls,
     featureRequests,
     usageSnapshots,
+    revenueHistory,
+    healthHistory,
+    ticketHistory,
     facts: {
       riskLevel: account360?.riskLevel,
       healthScore: gainsight?.healthScore,
@@ -49,7 +55,10 @@ function buildEvidenceBundle(accountId) {
       sev1Tickets: tickets.filter((ticket) => ticket.severity === "sev1").length,
       recentCalls: calls.length,
       latestActiveSeatPct: latestUsage?.activeSeatPct ?? null,
-      featureThemes: featureRequests.map((request) => request.themeLabel)
+      featureThemes: featureRequests.map((request) => request.themeLabel),
+      revenueHistoryPoints: revenueHistory.length,
+      healthHistoryPoints: healthHistory.length,
+      ticketHistoryPoints: ticketHistory.length
     }
   };
 }
@@ -65,7 +74,8 @@ function evidenceSummaryLines(bundle) {
     `Tickets: ${bundle.facts.totalTickets} total, ${bundle.facts.openTickets} open, ${bundle.facts.sev1Tickets} sev1`,
     `Calls: ${bundle.facts.recentCalls}`,
     `Latest active seat pct: ${bundle.facts.latestActiveSeatPct}%`,
-    `Feature themes: ${bundle.facts.featureThemes.join(", ") || "None"}`
+    `Feature themes: ${bundle.facts.featureThemes.join(", ") || "None"}`,
+    `History coverage: revenue ${bundle.facts.revenueHistoryPoints} months, health ${bundle.facts.healthHistoryPoints} months, tickets ${bundle.facts.ticketHistoryPoints} months`
   ];
 }
 
@@ -129,6 +139,38 @@ export function createCustomer360Server() {
         `Cross-source evidence for ${accountId}:`,
         evidenceSummaryLines(bundle),
         { bundle }
+      );
+    }
+  );
+
+  server.registerTool(
+    "get_account_chart_readiness",
+    {
+      description: "Explain which chartable histories exist for an account.",
+      inputSchema: {
+        accountId: z.string()
+      }
+    },
+    async ({ accountId }) => {
+      const bundle = buildEvidenceBundle(accountId);
+      return bulletListResult(
+        `Chart readiness for ${accountId}:`,
+        [
+          `Account: ${bundle.accountName}`,
+          `Revenue history points: ${bundle.facts.revenueHistoryPoints}`,
+          `Health history points: ${bundle.facts.healthHistoryPoints}`,
+          `Ticket history points: ${bundle.facts.ticketHistoryPoints}`,
+          `Usage history points: ${bundle.usageSnapshots.length}`
+        ],
+        {
+          accountId,
+          readiness: {
+            revenueHistory: bundle.revenueHistory,
+            healthHistory: bundle.healthHistory,
+            ticketHistory: bundle.ticketHistory,
+            usageSnapshots: bundle.usageSnapshots
+          }
+        }
       );
     }
   );

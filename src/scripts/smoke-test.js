@@ -4,14 +4,14 @@ import { StdioClientTransport } from "@modelcontextprotocol/sdk/client/stdio.js"
 const root = process.cwd();
 
 const servers = [
-  ["salesforce", ["src/servers/salesforce.js"], { name: "get_top_accounts_by_arr", arguments: { limit: 2 } }],
-  ["gainsight", ["src/servers/gainsight.js"], { name: "identify_churn_risk_accounts", arguments: { limit: 2 } }],
-  ["zendesk", ["src/servers/zendesk.js"], { name: "summarize_support_burden", arguments: { limit: 2 } }],
+  ["salesforce", ["src/servers/salesforce.js"], { name: "get_revenue_history", arguments: { topNByArr: 2 } }],
+  ["gainsight", ["src/servers/gainsight.js"], { name: "get_health_history", arguments: { topNByArr: 2 } }],
+  ["zendesk", ["src/servers/zendesk.js"], { name: "get_ticket_history", arguments: {} }],
   ["productboard", ["src/servers/productboard.js"], { name: "build_roadmap_hypothesis", arguments: { topN: 2 } }],
   ["gong", ["src/servers/gong.js"], { name: "analyze_tangent_patterns", arguments: { audience: "customer" } }],
   ["usage", ["src/servers/usage.js"], { name: "low_adoption_accounts", arguments: { limit: 2 } }],
   ["people", ["src/servers/people.js"], { name: "explain_top_performer_patterns", arguments: { roleFamily: "sales" } }],
-  ["customer360", ["src/servers/customer360.js"], { name: "get_risk_account_summary", arguments: { limit: 2 } }]
+  ["customer360", ["src/servers/customer360.js"], { name: "get_account_chart_readiness", arguments: { accountId: "redwood-bank" } }]
 ];
 
 async function testServer(name, args, sampleTool) {
